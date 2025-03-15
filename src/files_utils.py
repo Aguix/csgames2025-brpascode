@@ -25,3 +25,10 @@ def dump_json_file(filename : str, dump_content : dict) -> None:
     except Exception as e:
         print(f"Problème de modification du fichier {filename}")
 
+
+def dump_yaml_file(filename : str, dump_content : dict) -> None:
+    try:
+        with open(f"outfiles/{filename}.yml", "w+", encoding='utf-8') as f:
+            yaml.dump(data=dump_content, stream=f, allow_unicode=True)
+    except Exception as e:
+        print(f"Problème de modification du fichier {filename}")
