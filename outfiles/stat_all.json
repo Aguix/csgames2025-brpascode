@@ -1,0 +1,192 @@
+{
+    "Terraform": {
+        "count": 166,
+        "country": {
+            "JP": 33,
+            "SG": 26,
+            "US": 27,
+            "BR": 22,
+            "MX": 24,
+            "FR": 20,
+            "CA": 14
+        },
+        "role": {
+            "Database": 24,
+            "Back End": 41,
+            "Front End": 76,
+            "Load balancer": 15,
+            "Monitor": 10
+        }
+    },
+    "Ad Manager Plus": {
+        "count": 154,
+        "country": {
+            "JP": 32,
+            "BR": 43,
+            "CA": 13,
+            "FR": 29,
+            "US": 14,
+            "MX": 12,
+            "SG": 11
+        },
+        "role": {
+            "Database": 30,
+            "Back End": 30,
+            "Front End": 66,
+            "Load balancer": 18,
+            "Monitor": 10
+        }
+    },
+    "Jira": {
+        "count": 172,
+        "country": {
+            "SG": 28,
+            "US": 19,
+            "BR": 23,
+            "JP": 34,
+            "FR": 16,
+            "MX": 27,
+            "CA": 25
+        },
+        "role": {
+            "Database": 31,
+            "Back End": 40,
+            "Front End": 76,
+            "Load balancer": 15,
+            "Monitor": 10
+        }
+    },
+    "Confluence": {
+        "count": 123,
+        "country": {
+            "CA": 16,
+            "BR": 21,
+            "FR": 14,
+            "JP": 21,
+            "MX": 9,
+            "US": 26,
+            "SG": 16
+        },
+        "role": {
+            "Database": 37,
+            "Back End": 38,
+            "Front End": 26,
+            "Load balancer": 12,
+            "Monitor": 10
+        }
+    },
+    "Saleforce": {
+        "count": 140,
+        "country": {
+            "SG": 17,
+            "FR": 22,
+            "JP": 17,
+            "US": 25,
+            "BR": 22,
+            "CA": 22,
+            "MX": 15
+        },
+        "role": {
+            "Database": 20,
+            "Back End": 36,
+            "Front End": 60,
+            "Load balancer": 14,
+            "Monitor": 10
+        }
+    },
+    "Nagios": {
+        "count": 94,
+        "country": {
+            "SG": 11,
+            "FR": 11,
+            "MX": 23,
+            "BR": 13,
+            "US": 21,
+            "JP": 10,
+            "CA": 5
+        },
+        "role": {
+            "Database": 18,
+            "Back End": 19,
+            "Front End": 33,
+            "Load balancer": 14,
+            "Monitor": 10
+        }
+    },
+    "IT Service Management": {
+        "count": 121,
+        "country": {
+            "FR": 23,
+            "US": 19,
+            "SG": 20,
+            "MX": 25,
+            "JP": 15,
+            "BR": 5,
+            "CA": 14
+        },
+        "role": {
+            "Database": 18,
+            "Back End": 21,
+            "Front End": 58,
+            "Load balancer": 14,
+            "Monitor": 10
+        }
+    },
+    "Keeper": {
+        "count": 103,
+        "country": {
+            "CA": 12,
+            "JP": 19,
+            "SG": 14,
+            "BR": 21,
+            "US": 23,
+            "MX": 10,
+            "FR": 4
+        },
+        "role": {
+            "Database": 26,
+            "Back End": 16,
+            "Front End": 38,
+            "Load balancer": 13,
+            "Monitor": 10
+        }
+    },
+    "Kofax": {
+        "count": 116,
+        "country": {
+            "SG": 25,
+            "CA": 14,
+            "BR": 23,
+            "MX": 17,
+            "JP": 16,
+            "US": 15,
+            "FR": 6
+        },
+        "role": {
+            "Database": 14,
+            "Back End": 20,
+            "Front End": 52,
+            "Load balancer": 20,
+            "Monitor": 10
+        }
+    },
+    "Mantis BT": {
+        "count": 118,
+        "country": {
+            "MX": 33,
+            "US": 15,
+            "FR": 16,
+            "SG": 25,
+            "CA": 7,
+            "JP": 19,
+            "BR": 3
+        },
+        "role": {
+            "Database": 13,
+            "Back End": 28,
+            "Front End": 55,
+            "Load balancer": 12,
+            "Monitor": 10
+        }
+    }
+}
