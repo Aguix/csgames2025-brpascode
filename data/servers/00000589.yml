@@ -1,0 +1,23 @@
+---
+ip: 156.0.42.95
+name: BRCFLBET00389
+tags:
+  app: Confluence
+  role: Back End
+  country: BR
+  env: T
+cpu: 12
+memory: 48
+outgoing:
+  '3306':
+  - CACFLDBD00358
+  - BRCFLDBD00359
+  - FRKEEDBD00360
+  - JPCFLDBD00361
+  - BRCFLDBP00368
+  - SGCFLDBP00369
+  - JPCFLDBP00370
+  - USCFLBET00382
+  - BRCFLDBT00383
+  - USCFLBET00384
+  - JPCFLDBT00385

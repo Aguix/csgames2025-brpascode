@@ -1,0 +1,15 @@
+---
+ip: 2.232.111.43
+name: BRJIRBED00303
+tags:
+  app: Jira
+  role: Back End
+  country: BR
+  env: D
+cpu: 12
+memory: 16
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302

@@ -1,0 +1,20 @@
+---
+ip: 200.80.173.25
+name: JPKEEBET00564
+tags:
+  app: Keeper
+  role: Back End
+  country: JP
+  env: T
+cpu: 8
+memory: 40
+outgoing:
+  '3306':
+  - CAJIRDBD00544
+  - JPKEEDBD00545
+  - BRKEEDBP00554
+  - SGKEEDBP00555
+  - BRKEEDBP00556
+  - JPITSDBT00562
+  - MXKEEDBT00562
+  - JPKEEDBT00563

@@ -1,0 +1,11 @@
+---
+ip: 8.82.118.51
+name: JPADPBED00251
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: JP
+  env: D
+cpu: 8
+memory: 40
+outgoing: {}

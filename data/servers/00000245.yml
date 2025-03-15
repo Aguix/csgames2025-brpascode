@@ -1,0 +1,18 @@
+---
+ip: 197.97.194.136
+name: JPADPFEP00273
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: JP
+  env: P
+cpu: 12
+memory: 48
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256
+  - JPADPBEP00269
+  - FRADPBEP00270
+  - FRADPBEP00271

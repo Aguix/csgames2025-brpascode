@@ -1,0 +1,20 @@
+---
+ip: 137.56.187.100
+name: FRSFCBES00451
+tags:
+  app: Saleforce
+  role: Back End
+  country: FR
+  env: S
+cpu: 16
+memory: 56
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410
+  - SGJIRDBP00425
+  - CASFCDBT00436
+  - MXSFCDBT00436
+  - CASFCDBT00437
+  - USSFCDBT00438
+  - USSFCBES00450

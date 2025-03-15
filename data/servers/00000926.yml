@@ -1,0 +1,11 @@
+---
+ip: 192.21.13.139
+name: MXITSDBS00531
+tags:
+  app: IT Service Management
+  role: Database
+  country: MX
+  env: S
+cpu: 4
+memory: 64
+outgoing: {}

@@ -1,0 +1,15 @@
+---
+ip: 154.140.96.224
+name: SGITSBEP00512
+tags:
+  app: IT Service Management
+  role: Back End
+  country: SG
+  env: P
+cpu: 12
+memory: 16
+outgoing:
+  '3306':
+  - FRITSDBD00500
+  - FRITSDBD00500
+  - JPITSDBP00509

@@ -1,0 +1,13 @@
+---
+ip: 215.194.224.65
+name: BRNAGFED00547
+tags:
+  app: Keeper
+  role: Front End
+  country: BR
+  env: D
+cpu: 8
+memory: 56
+outgoing:
+  '443':
+  - SGKEEBED00546

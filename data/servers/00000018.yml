@@ -1,0 +1,11 @@
+---
+ip: 187.195.160.220
+name: MXSFCDBP00207
+tags:
+  app: Terraform
+  role: Database
+  country: MX
+  env: P
+cpu: 16
+memory: 24
+outgoing: {}

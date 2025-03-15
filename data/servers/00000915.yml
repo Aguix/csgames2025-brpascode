@@ -1,0 +1,20 @@
+---
+ip: 93.115.48.201
+name: CAITSLBP00515
+tags:
+  app: IT Service Management
+  role: Load balancer
+  country: CA
+  env: P
+cpu: 8
+memory: 24
+outgoing:
+  '443':
+  - USITSFED00502
+  - SGITSDBD00503
+  - MXITSFED00503
+  - JPITSFED00504
+  - MXITSFED00505
+  - MXITSFED00506
+  - MXITSFEP00513
+  - MXITSFEP00514

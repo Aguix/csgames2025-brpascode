@@ -1,0 +1,29 @@
+---
+ip: 57.166.151.194
+name: FRTFMMOD00205
+tags:
+  app: Terraform
+  role: Monitor
+  country: FR
+  env: D
+cpu: 8
+memory: 8
+outgoing:
+  '1001':
+  - JPTFMDBD00195
+  '1002':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199
+  '1003':
+  - SGTFMDBD00200
+  - BRTFMFED00200
+  - MXTFMFED00200
+  - SGTFMFED00200
+  - USTFMFED00201
+  - BRTFMFED00202
+  - JPTFMFED00203
+  '1004':
+  - USTFMLBD00204

@@ -1,0 +1,19 @@
+---
+ip: 215.20.41.56
+name: JPNAGFES00496
+tags:
+  app: Nagios
+  role: Front End
+  country: JP
+  env: S
+cpu: 8
+memory: 48
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476
+  - USNAGBES00488
+  - MXNAGBES00489

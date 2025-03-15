@@ -1,0 +1,11 @@
+---
+ip: 225.170.172.196
+name: CAADPDBD00253
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: CA
+  env: D
+cpu: 12
+memory: 8
+outgoing: {}

@@ -1,0 +1,11 @@
+---
+ip: 3.85.196.0
+name: SGSFCBED00409
+tags:
+  app: Saleforce
+  role: Database
+  country: SG
+  env: D
+cpu: 16
+memory: 24
+outgoing: {}

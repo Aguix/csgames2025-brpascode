@@ -1,0 +1,11 @@
+---
+ip: 251.135.216.60
+name: FRTFMDBS00241
+tags:
+  app: Terraform
+  role: Database
+  country: FR
+  env: S
+cpu: 16
+memory: 24
+outgoing: {}

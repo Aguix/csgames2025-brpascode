@@ -1,0 +1,17 @@
+---
+ip: 172.161.233.173
+name: USKEELBD00552
+tags:
+  app: Keeper
+  role: Load balancer
+  country: US
+  env: D
+cpu: 12
+memory: 64
+outgoing:
+  '443':
+  - BRNAGFED00547
+  - USKEEFED00548
+  - JPSFCFED00549
+  - BRKEEFED00550
+  - CATFMMOD00551

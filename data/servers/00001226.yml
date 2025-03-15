@@ -1,0 +1,11 @@
+---
+ip: 161.58.68.55
+name: FRMTSFEP00640
+tags:
+  app: Mantis BT
+  role: Database
+  country: FR
+  env: P
+cpu: 8
+memory: 56
+outgoing: {}

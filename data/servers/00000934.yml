@@ -1,0 +1,19 @@
+---
+ip: 245.74.212.98
+name: FRITSBES00533
+tags:
+  app: IT Service Management
+  role: Back End
+  country: FR
+  env: S
+cpu: 8
+memory: 40
+outgoing:
+  '3306':
+  - FRITSDBD00500
+  - FRITSDBD00500
+  - JPITSDBP00509
+  - FRITSDBT00516
+  - SGITSMOT00517
+  - JPITSDBT00517
+  - MXITSDBS00531

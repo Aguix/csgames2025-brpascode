@@ -1,0 +1,21 @@
+---
+ip: 68.66.100.170
+name: JPJIRBET00283
+tags:
+  app: Ad Manager Plus
+  role: Back End
+  country: JP
+  env: T
+cpu: 8
+memory: 64
+outgoing:
+  '3306':
+  - JPADPBED00251
+  - BRADPDBD00252
+  - CAADPDBD00253
+  - FRADPDBD00254
+  - MXADPDBP00269
+  - SGADPDBT00277
+  - SGKFXDBT00278
+  - JPADPDBT00278
+  - CAADPDBT00279

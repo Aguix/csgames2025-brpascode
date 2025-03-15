@@ -1,0 +1,15 @@
+---
+ip: 169.15.246.194
+name: FRSFCBEP00426
+tags:
+  app: Saleforce
+  role: Back End
+  country: FR
+  env: P
+cpu: 12
+memory: 16
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410
+  - SGJIRDBP00425

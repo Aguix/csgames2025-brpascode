@@ -1,0 +1,13 @@
+---
+ip: 233.1.7.140
+name: SGKFXFED00586
+tags:
+  app: Kofax
+  role: Front End
+  country: SG
+  env: D
+cpu: 12
+memory: 40
+outgoing:
+  '443':
+  - CAKFXBED00585

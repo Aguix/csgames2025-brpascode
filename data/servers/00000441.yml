@@ -1,0 +1,11 @@
+---
+ip: 136.23.29.124
+name: SGJIRDBS00350
+tags:
+  app: Jira
+  role: Database
+  country: SG
+  env: S
+cpu: 12
+memory: 24
+outgoing: {}

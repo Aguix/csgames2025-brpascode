@@ -1,0 +1,11 @@
+---
+ip: 43.115.193.0
+name: USADPDBS00293
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: US
+  env: S
+cpu: 16
+memory: 64
+outgoing: {}

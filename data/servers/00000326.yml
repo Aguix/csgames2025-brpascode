@@ -1,0 +1,15 @@
+---
+ip: 201.61.178.248
+name: BRJIRBED00304
+tags:
+  app: Jira
+  role: Back End
+  country: BR
+  env: D
+cpu: 16
+memory: 40
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302

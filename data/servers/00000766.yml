@@ -1,0 +1,13 @@
+---
+ip: 168.48.250.182
+name: SGNAGBED00459
+tags:
+  app: Nagios
+  role: Back End
+  country: SG
+  env: D
+cpu: 16
+memory: 48
+outgoing:
+  '3306':
+  - SGNAGDBD00458

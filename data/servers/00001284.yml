@@ -1,0 +1,14 @@
+---
+ip: 213.95.251.253
+name: MXMTSFED00637
+tags:
+  app: Mantis BT
+  role: Front End
+  country: MX
+  env: D
+cpu: 4
+memory: 16
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632

@@ -1,0 +1,13 @@
+---
+ip: 175.100.103.240
+name: USITSFED00502
+tags:
+  app: IT Service Management
+  role: Front End
+  country: US
+  env: D
+cpu: 8
+memory: 40
+outgoing:
+  '443':
+  - FRITSBED00501

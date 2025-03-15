@@ -1,0 +1,19 @@
+---
+ip: 169.170.130.155
+name: CANAGFES00492
+tags:
+  app: Nagios
+  role: Front End
+  country: CA
+  env: S
+cpu: 8
+memory: 40
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476
+  - USNAGBES00488
+  - MXNAGBES00489

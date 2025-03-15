@@ -1,0 +1,18 @@
+---
+ip: 83.88.230.99
+name: MXADPFEP00273
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: MX
+  env: P
+cpu: 16
+memory: 40
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256
+  - JPADPBEP00269
+  - FRADPBEP00270
+  - FRADPBEP00271

@@ -1,0 +1,19 @@
+---
+ip: 191.115.16.189
+name: JPSFCBET00442
+tags:
+  app: Saleforce
+  role: Back End
+  country: JP
+  env: T
+cpu: 16
+memory: 40
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410
+  - SGJIRDBP00425
+  - CASFCDBT00436
+  - MXSFCDBT00436
+  - CASFCDBT00437
+  - USSFCDBT00438

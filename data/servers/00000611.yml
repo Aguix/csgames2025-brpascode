@@ -1,0 +1,26 @@
+---
+ip: 71.82.11.24
+name: FRCFLLBS00407
+tags:
+  app: Confluence
+  role: Load balancer
+  country: FR
+  env: S
+cpu: 16
+memory: 16
+outgoing:
+  '443':
+  - USCFLFED00365
+  - SGCFLFEP00376
+  - SGCFLFEP00377
+  - SGCFLFEP00378
+  - JPCFLFEP00379
+  - FRCFLFET00390
+  - MXCFLFES00400
+  - BRCFLFES00401
+  - FRNAGFES00402
+  - USCFLFES00403
+  - BRCFLFES00404
+  - BRCFLFES00405
+  - JPCFLFES00405
+  - SGSFCFES00406

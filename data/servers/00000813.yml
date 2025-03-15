@@ -1,0 +1,11 @@
+---
+ip: 206.31.187.240
+name: MXNAGDBS00485
+tags:
+  app: Nagios
+  role: Database
+  country: MX
+  env: S
+cpu: 16
+memory: 8
+outgoing: {}

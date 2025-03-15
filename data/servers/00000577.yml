@@ -1,0 +1,11 @@
+---
+ip: 234.246.79.203
+name: MXCFLDBS00396
+tags:
+  app: Confluence
+  role: Database
+  country: MX
+  env: S
+cpu: 16
+memory: 48
+outgoing: {}

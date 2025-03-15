@@ -1,0 +1,24 @@
+---
+ip: 149.15.113.29
+name: FRCFLFET00390
+tags:
+  app: Confluence
+  role: Front End
+  country: FR
+  env: T
+cpu: 12
+memory: 32
+outgoing:
+  '443':
+  - CACFLBED00362
+  - MXCFLFED00363
+  - USCFLBED00364
+  - SGITSBEP00371
+  - JPCFLBEP00372
+  - FRCFLBEP00373
+  - JPCFLBEP00374
+  - BRCFLBEP00375
+  - CACFLBET00386
+  - CACFLBET00387
+  - FRCFLMOT00388
+  - BRCFLBET00389

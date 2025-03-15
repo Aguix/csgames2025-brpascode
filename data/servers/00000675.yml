@@ -1,0 +1,19 @@
+---
+ip: 165.138.193.171
+name: MXSFCBET00440
+tags:
+  app: Saleforce
+  role: Back End
+  country: MX
+  env: T
+cpu: 4
+memory: 8
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410
+  - SGJIRDBP00425
+  - CASFCDBT00436
+  - MXSFCDBT00436
+  - CASFCDBT00437
+  - USSFCDBT00438

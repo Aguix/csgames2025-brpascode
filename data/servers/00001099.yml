@@ -1,0 +1,13 @@
+---
+ip: 205.217.103.223
+name: MXMTSFED00591
+tags:
+  app: Kofax
+  role: Front End
+  country: MX
+  env: D
+cpu: 4
+memory: 24
+outgoing:
+  '443':
+  - CAKFXBED00585

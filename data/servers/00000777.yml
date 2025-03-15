@@ -1,0 +1,22 @@
+---
+ip: 240.207.254.18
+name: FRITSMOD00464
+tags:
+  app: Nagios
+  role: Monitor
+  country: FR
+  env: D
+cpu: 16
+memory: 8
+outgoing:
+  '1001':
+  - SGNAGDBD00458
+  '1002':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  '1003':
+  - BRADPFED00462
+  - MXNAGFED00463
+  '1004':
+  - MXNAGDBD00463

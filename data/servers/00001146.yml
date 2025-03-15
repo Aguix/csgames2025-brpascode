@@ -1,0 +1,11 @@
+---
+ip: 151.130.69.12
+name: FRKFXDBS00614
+tags:
+  app: Kofax
+  role: Database
+  country: FR
+  env: S
+cpu: 8
+memory: 40
+outgoing: {}

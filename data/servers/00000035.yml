@@ -1,0 +1,17 @@
+---
+ip: 137.50.114.234
+name: JPTFMFED00203
+tags:
+  app: Terraform
+  role: Front End
+  country: JP
+  env: D
+cpu: 12
+memory: 64
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199

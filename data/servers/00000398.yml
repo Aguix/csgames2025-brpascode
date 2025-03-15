@@ -1,0 +1,21 @@
+---
+ip: 234.153.33.73
+name: FRITSBET00339
+tags:
+  app: Jira
+  role: Back End
+  country: FR
+  env: T
+cpu: 4
+memory: 16
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302
+  - USJIRDBP00317
+  - FRJIRDBP00318
+  - FRJIRDBP00319
+  - USJIRBEP00320
+  - MXJIRDBT00336
+  - CAJIRDBT00336

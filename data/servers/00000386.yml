@@ -1,0 +1,11 @@
+---
+ip: 53.182.92.205
+name: CAJIRDBT00336
+tags:
+  app: Jira
+  role: Database
+  country: CA
+  env: T
+cpu: 12
+memory: 48
+outgoing: {}

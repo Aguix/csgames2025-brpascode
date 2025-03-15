@@ -1,0 +1,11 @@
+---
+ip: 246.11.31.82
+name: BRADPDBD00252
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: BR
+  env: D
+cpu: 8
+memory: 64
+outgoing: {}

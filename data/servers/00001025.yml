@@ -1,0 +1,19 @@
+---
+ip: 34.71.165.140
+name: MXKEELBP00559
+tags:
+  app: Keeper
+  role: Load balancer
+  country: MX
+  env: P
+cpu: 4
+memory: 8
+outgoing:
+  '443':
+  - BRNAGFED00547
+  - USKEEFED00548
+  - JPSFCFED00549
+  - BRKEEFED00550
+  - CATFMMOD00551
+  - USKEEFEP00557
+  - USKEEFEP00558

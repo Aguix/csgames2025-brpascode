@@ -1,0 +1,11 @@
+---
+ip: 41.196.47.211
+name: USTFMDBT00223
+tags:
+  app: Terraform
+  role: Database
+  country: US
+  env: T
+cpu: 16
+memory: 40
+outgoing: {}

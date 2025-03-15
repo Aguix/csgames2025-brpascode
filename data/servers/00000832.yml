@@ -1,0 +1,17 @@
+---
+ip: 148.53.83.140
+name: CANAGFET00482
+tags:
+  app: Nagios
+  role: Front End
+  country: CA
+  env: T
+cpu: 12
+memory: 56
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476

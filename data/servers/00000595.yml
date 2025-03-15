@@ -1,0 +1,20 @@
+---
+ip: 159.47.178.194
+name: SGCFLFEP00377
+tags:
+  app: Confluence
+  role: Front End
+  country: SG
+  env: P
+cpu: 12
+memory: 56
+outgoing:
+  '443':
+  - CACFLBED00362
+  - MXCFLFED00363
+  - USCFLBED00364
+  - SGITSBEP00371
+  - JPCFLBEP00372
+  - FRCFLBEP00373
+  - JPCFLBEP00374
+  - BRCFLBEP00375

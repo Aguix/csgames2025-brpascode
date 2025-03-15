@@ -1,0 +1,18 @@
+---
+ip: 216.105.196.155
+name: BRITSMOD00507
+tags:
+  app: IT Service Management
+  role: Load balancer
+  country: BR
+  env: D
+cpu: 4
+memory: 16
+outgoing:
+  '443':
+  - USITSFED00502
+  - SGITSDBD00503
+  - MXITSFED00503
+  - JPITSFED00504
+  - MXITSFED00505
+  - MXITSFED00506

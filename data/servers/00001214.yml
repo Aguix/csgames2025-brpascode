@@ -1,0 +1,14 @@
+---
+ip: 83.239.35.189
+name: SGMTSFED00638
+tags:
+  app: Mantis BT
+  role: Front End
+  country: SG
+  env: D
+cpu: 4
+memory: 40
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632

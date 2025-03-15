@@ -1,0 +1,11 @@
+---
+ip: 188.96.233.154
+name: MXKFXDBT00605
+tags:
+  app: Kofax
+  role: Database
+  country: MX
+  env: T
+cpu: 12
+memory: 40
+outgoing: {}

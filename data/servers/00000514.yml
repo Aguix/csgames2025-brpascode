@@ -1,0 +1,19 @@
+---
+ip: 245.252.39.137
+name: JPCFLBEP00372
+tags:
+  app: Confluence
+  role: Back End
+  country: JP
+  env: P
+cpu: 12
+memory: 56
+outgoing:
+  '3306':
+  - CACFLDBD00358
+  - BRCFLDBD00359
+  - FRKEEDBD00360
+  - JPCFLDBD00361
+  - BRCFLDBP00368
+  - SGCFLDBP00369
+  - JPCFLDBP00370

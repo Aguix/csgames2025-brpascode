@@ -1,0 +1,21 @@
+---
+ip: 172.243.109.210
+name: CAJIRFEP00328
+tags:
+  app: Jira
+  role: Front End
+  country: CA
+  env: P
+cpu: 8
+memory: 48
+outgoing:
+  '443':
+  - BRJIRBED00303
+  - USJIRBED00303
+  - BRJIRBED00304
+  - BRJIRBED00305
+  - BRJIRBEP00321
+  - CAJIRBEP00322
+  - CAKFXBEP00323
+  - JPJIRBEP00324
+  - SGADPBEP00325

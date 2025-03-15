@@ -1,0 +1,15 @@
+---
+ip: 60.50.168.72
+name: BRADPFED00262
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: BR
+  env: D
+cpu: 8
+memory: 16
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256

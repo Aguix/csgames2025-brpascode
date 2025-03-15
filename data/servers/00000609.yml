@@ -1,0 +1,18 @@
+---
+ip: 5.227.247.223
+name: USCFLMOT00391
+tags:
+  app: Confluence
+  role: Load balancer
+  country: US
+  env: T
+cpu: 4
+memory: 56
+outgoing:
+  '443':
+  - USCFLFED00365
+  - SGCFLFEP00376
+  - SGCFLFEP00377
+  - SGCFLFEP00378
+  - JPCFLFEP00379
+  - FRCFLFET00390

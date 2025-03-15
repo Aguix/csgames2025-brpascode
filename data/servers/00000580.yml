@@ -1,0 +1,16 @@
+---
+ip: 180.108.94.170
+name: USCFLBED00364
+tags:
+  app: Confluence
+  role: Back End
+  country: US
+  env: D
+cpu: 16
+memory: 8
+outgoing:
+  '3306':
+  - CACFLDBD00358
+  - BRCFLDBD00359
+  - FRKEEDBD00360
+  - JPCFLDBD00361

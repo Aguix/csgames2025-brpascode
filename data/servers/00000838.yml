@@ -1,0 +1,19 @@
+---
+ip: 47.147.37.123
+name: JPNAGMOS00495
+tags:
+  app: Nagios
+  role: Front End
+  country: JP
+  env: S
+cpu: 16
+memory: 8
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476
+  - USNAGBES00488
+  - MXNAGBES00489

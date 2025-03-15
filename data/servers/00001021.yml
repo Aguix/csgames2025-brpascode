@@ -1,0 +1,16 @@
+---
+ip: 196.87.35.159
+name: BRKEEFET00568
+tags:
+  app: Keeper
+  role: Front End
+  country: BR
+  env: T
+cpu: 8
+memory: 56
+outgoing:
+  '443':
+  - SGKEEBED00546
+  - CAKEEBEP00556
+  - JPKEEBET00564
+  - USKEEBET00565

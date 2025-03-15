@@ -1,0 +1,16 @@
+---
+ip: 32.56.175.246
+name: CAKFXBET00608
+tags:
+  app: Kofax
+  role: Back End
+  country: CA
+  env: T
+cpu: 4
+memory: 24
+outgoing:
+  '3306':
+  - SGKFXDBD00585
+  - JPKFXDBP00597
+  - JPKFXDBP00598
+  - MXKFXDBT00605

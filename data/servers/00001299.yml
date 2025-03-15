@@ -1,0 +1,18 @@
+---
+ip: 157.74.4.231
+name: MXCFLDBD00639
+tags:
+  app: Mantis BT
+  role: Load balancer
+  country: MX
+  env: D
+cpu: 12
+memory: 56
+outgoing:
+  '443':
+  - FRMTSFED00633
+  - SGMTSFED00634
+  - CAMTSFED00635
+  - SGMTSFED00636
+  - MXMTSFED00637
+  - SGMTSFED00638

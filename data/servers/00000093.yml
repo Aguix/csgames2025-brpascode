@@ -1,0 +1,19 @@
+---
+ip: 145.41.192.219
+name: USTFMLBD00204
+tags:
+  app: Terraform
+  role: Load balancer
+  country: US
+  env: D
+cpu: 16
+memory: 48
+outgoing:
+  '443':
+  - SGTFMDBD00200
+  - BRTFMFED00200
+  - MXTFMFED00200
+  - SGTFMFED00200
+  - USTFMFED00201
+  - BRTFMFED00202
+  - JPTFMFED00203

@@ -1,0 +1,11 @@
+---
+ip: 164.183.239.180
+name: MXJIRDBT00475
+tags:
+  app: Nagios
+  role: Database
+  country: MX
+  env: T
+cpu: 12
+memory: 8
+outgoing: {}

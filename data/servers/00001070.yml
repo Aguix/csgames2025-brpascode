@@ -1,0 +1,24 @@
+---
+ip: 243.61.56.8
+name: MXKEEMOD00553
+tags:
+  app: Keeper
+  role: Monitor
+  country: MX
+  env: D
+cpu: 8
+memory: 40
+outgoing:
+  '1001':
+  - CAJIRDBD00544
+  - JPKEEDBD00545
+  '1002':
+  - SGKEEBED00546
+  '1003':
+  - BRNAGFED00547
+  - USKEEFED00548
+  - JPSFCFED00549
+  - BRKEEFED00550
+  - CATFMMOD00551
+  '1004':
+  - USKEELBD00552

@@ -1,0 +1,16 @@
+---
+ip: 90.163.138.199
+name: BRADPBED00255
+tags:
+  app: Ad Manager Plus
+  role: Back End
+  country: BR
+  env: D
+cpu: 8
+memory: 56
+outgoing:
+  '3306':
+  - JPADPBED00251
+  - BRADPDBD00252
+  - CAADPDBD00253
+  - FRADPDBD00254

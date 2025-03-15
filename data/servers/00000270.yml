@@ -1,0 +1,11 @@
+---
+ip: 235.121.253.72
+name: SGKFXDBT00278
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: SG
+  env: T
+cpu: 8
+memory: 8
+outgoing: {}

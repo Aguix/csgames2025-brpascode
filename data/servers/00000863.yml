@@ -1,0 +1,11 @@
+---
+ip: 207.16.190.248
+name: FRITSDBD00500
+tags:
+  app: IT Service Management
+  role: Database
+  country: FR
+  env: D
+cpu: 12
+memory: 32
+outgoing: {}

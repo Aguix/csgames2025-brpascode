@@ -1,0 +1,18 @@
+---
+ip: 72.187.109.194
+name: JPKFXMOS00618
+tags:
+  app: Kofax
+  role: Back End
+  country: JP
+  env: S
+cpu: 16
+memory: 32
+outgoing:
+  '3306':
+  - SGKFXDBD00585
+  - JPKFXDBP00597
+  - JPKFXDBP00598
+  - MXKFXDBT00605
+  - CAKFXDBS00613
+  - FRKFXDBS00614

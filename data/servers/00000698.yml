@@ -1,0 +1,18 @@
+---
+ip: 202.127.93.197
+name: FRSFCLBD00423
+tags:
+  app: Saleforce
+  role: Load balancer
+  country: FR
+  env: D
+cpu: 16
+memory: 16
+outgoing:
+  '443':
+  - SGSFCFED00416
+  - FRSFCFED00417
+  - MXSFCFED00418
+  - BRSFCFED00419
+  - USSFCFED00420
+  - USSFCFED00421

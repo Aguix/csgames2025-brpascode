@@ -1,0 +1,11 @@
+---
+ip: 233.28.95.111
+name: JPKFXDBP00598
+tags:
+  app: Kofax
+  role: Database
+  country: JP
+  env: P
+cpu: 4
+memory: 56
+outgoing: {}

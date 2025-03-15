@@ -1,0 +1,28 @@
+---
+ip: 169.200.188.203
+name: USKFXMOD00596
+tags:
+  app: Kofax
+  role: Monitor
+  country: US
+  env: D
+cpu: 8
+memory: 16
+outgoing:
+  '1001':
+  - SGKFXDBD00585
+  '1002':
+  - CAKFXBED00585
+  '1003':
+  - SGKFXFED00586
+  - BRKFXFED00587
+  - MXKFXFED00588
+  - SGCFLFED00589
+  - JPKFXFED00590
+  - MXMTSFED00591
+  - BRKFXFED00592
+  - BRKFXFED00592
+  - MXKFXFED00593
+  '1004':
+  - USKFXLBD00594
+  - BRKFXLBD00595

@@ -1,0 +1,16 @@
+---
+ip: 39.208.127.169
+name: MXCFLFED00363
+tags:
+  app: Confluence
+  role: Back End
+  country: MX
+  env: D
+cpu: 8
+memory: 56
+outgoing:
+  '3306':
+  - CACFLDBD00358
+  - BRCFLDBD00359
+  - FRKEEDBD00360
+  - JPCFLDBD00361

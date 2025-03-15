@@ -1,0 +1,11 @@
+---
+ip: 173.191.27.13
+name: BRKEEDBP00554
+tags:
+  app: Keeper
+  role: Database
+  country: BR
+  env: P
+cpu: 8
+memory: 40
+outgoing: {}

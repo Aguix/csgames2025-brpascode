@@ -1,0 +1,16 @@
+---
+ip: 30.63.71.7
+name: CAJIRFED00311
+tags:
+  app: Jira
+  role: Front End
+  country: CA
+  env: D
+cpu: 12
+memory: 40
+outgoing:
+  '443':
+  - BRJIRBED00303
+  - USJIRBED00303
+  - BRJIRBED00304
+  - BRJIRBED00305

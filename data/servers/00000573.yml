@@ -1,0 +1,11 @@
+---
+ip: 209.171.255.142
+name: JPCFLDBT00385
+tags:
+  app: Confluence
+  role: Database
+  country: JP
+  env: T
+cpu: 16
+memory: 48
+outgoing: {}

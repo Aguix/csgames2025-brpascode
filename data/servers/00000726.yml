@@ -1,0 +1,17 @@
+---
+ip: 67.21.97.19
+name: SGSFCFED00416
+tags:
+  app: Saleforce
+  role: Front End
+  country: SG
+  env: D
+cpu: 4
+memory: 56
+outgoing:
+  '443':
+  - JPSFCBED00411
+  - USSFCBED00412
+  - BRSFCBED00413
+  - CAMTSFED00414
+  - JPSFCFED00415

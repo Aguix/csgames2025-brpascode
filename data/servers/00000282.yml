@@ -1,0 +1,21 @@
+---
+ip: 120.212.99.82
+name: CAADPBET00280
+tags:
+  app: Ad Manager Plus
+  role: Back End
+  country: CA
+  env: T
+cpu: 12
+memory: 24
+outgoing:
+  '3306':
+  - JPADPBED00251
+  - BRADPDBD00252
+  - CAADPDBD00253
+  - FRADPDBD00254
+  - MXADPDBP00269
+  - SGADPDBT00277
+  - SGKFXDBT00278
+  - JPADPDBT00278
+  - CAADPDBT00279

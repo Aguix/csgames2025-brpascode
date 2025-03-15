@@ -1,0 +1,16 @@
+---
+ip: 226.220.68.248
+name: USKEEFET00566
+tags:
+  app: Keeper
+  role: Front End
+  country: US
+  env: T
+cpu: 8
+memory: 32
+outgoing:
+  '443':
+  - SGKEEBED00546
+  - CAKEEBEP00556
+  - JPKEEBET00564
+  - USKEEBET00565

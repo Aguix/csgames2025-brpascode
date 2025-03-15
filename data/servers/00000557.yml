@@ -1,0 +1,17 @@
+---
+ip: 241.253.78.207
+name: BRCFLLBP00380
+tags:
+  app: Confluence
+  role: Load balancer
+  country: BR
+  env: P
+cpu: 4
+memory: 56
+outgoing:
+  '443':
+  - USCFLFED00365
+  - SGCFLFEP00376
+  - SGCFLFEP00377
+  - SGCFLFEP00378
+  - JPCFLFEP00379

@@ -1,0 +1,11 @@
+---
+ip: 112.139.61.78
+name: JPCFLDBP00370
+tags:
+  app: Confluence
+  role: Database
+  country: JP
+  env: P
+cpu: 8
+memory: 16
+outgoing: {}

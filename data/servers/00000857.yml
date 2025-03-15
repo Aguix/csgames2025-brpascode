@@ -1,0 +1,13 @@
+---
+ip: 29.161.21.74
+name: MXITSFED00505
+tags:
+  app: IT Service Management
+  role: Front End
+  country: MX
+  env: D
+cpu: 12
+memory: 32
+outgoing:
+  '443':
+  - FRITSBED00501

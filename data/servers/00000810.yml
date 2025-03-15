@@ -1,0 +1,11 @@
+---
+ip: 111.71.249.94
+name: USNAGDBT00473
+tags:
+  app: Nagios
+  role: Database
+  country: US
+  env: T
+cpu: 8
+memory: 16
+outgoing: {}

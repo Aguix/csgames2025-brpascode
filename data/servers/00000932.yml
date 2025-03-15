@@ -1,0 +1,18 @@
+---
+ip: 102.196.126.95
+name: USITSBET00518
+tags:
+  app: IT Service Management
+  role: Back End
+  country: US
+  env: T
+cpu: 16
+memory: 8
+outgoing:
+  '3306':
+  - FRITSDBD00500
+  - FRITSDBD00500
+  - JPITSDBP00509
+  - FRITSDBT00516
+  - SGITSMOT00517
+  - JPITSDBT00517

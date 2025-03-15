@@ -1,0 +1,19 @@
+---
+ip: 22.193.90.194
+name: BRSFCBET00441
+tags:
+  app: Saleforce
+  role: Back End
+  country: BR
+  env: T
+cpu: 12
+memory: 48
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410
+  - SGJIRDBP00425
+  - CASFCDBT00436
+  - MXSFCDBT00436
+  - CASFCDBT00437
+  - USSFCDBT00438

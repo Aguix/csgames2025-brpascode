@@ -1,0 +1,16 @@
+---
+ip: 146.254.238.199
+name: CATFMBEP00208
+tags:
+  app: Terraform
+  role: Back End
+  country: CA
+  env: P
+cpu: 12
+memory: 8
+outgoing:
+  '3306':
+  - JPTFMDBD00195
+  - MXTFMDBP00206
+  - MXSFCDBP00207
+  - JPTFMDBP00208

@@ -1,0 +1,11 @@
+---
+ip: 120.176.237.143
+name: JPKEEDBT00563
+tags:
+  app: Keeper
+  role: Database
+  country: JP
+  env: T
+cpu: 8
+memory: 8
+outgoing: {}

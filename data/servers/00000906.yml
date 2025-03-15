@@ -1,0 +1,18 @@
+---
+ip: 227.222.80.28
+name: FRITSFET00522
+tags:
+  app: IT Service Management
+  role: Front End
+  country: FR
+  env: T
+cpu: 8
+memory: 32
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518

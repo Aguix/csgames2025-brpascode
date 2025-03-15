@@ -1,0 +1,24 @@
+---
+ip: 100.207.200.88
+name: USKEELBT00571
+tags:
+  app: Keeper
+  role: Load balancer
+  country: US
+  env: T
+cpu: 8
+memory: 56
+outgoing:
+  '443':
+  - BRNAGFED00547
+  - USKEEFED00548
+  - JPSFCFED00549
+  - BRKEEFED00550
+  - CATFMMOD00551
+  - USKEEFEP00557
+  - USKEEFEP00558
+  - USKEEFET00566
+  - SGKEEFET00567
+  - BRKEEFET00568
+  - FRKFXFET00569
+  - JPKEEFET00570

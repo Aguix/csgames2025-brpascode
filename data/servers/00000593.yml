@@ -1,0 +1,15 @@
+---
+ip: 94.144.82.232
+name: USCFLFED00365
+tags:
+  app: Confluence
+  role: Front End
+  country: US
+  env: D
+cpu: 16
+memory: 8
+outgoing:
+  '443':
+  - CACFLBED00362
+  - MXCFLFED00363
+  - USCFLBED00364

@@ -1,0 +1,23 @@
+---
+ip: 221.23.13.110
+name: USTFMBES00242
+tags:
+  app: Terraform
+  role: Back End
+  country: US
+  env: S
+cpu: 16
+memory: 64
+outgoing:
+  '3306':
+  - JPTFMDBD00195
+  - MXTFMDBP00206
+  - MXSFCDBP00207
+  - JPTFMDBP00208
+  - FRTFMDBT00222
+  - USTFMDBT00223
+  - SGTFMDBT00224
+  - JPTFMDBT00225
+  - FRTFMDBS00239
+  - JPTFMDBS00240
+  - FRTFMDBS00241

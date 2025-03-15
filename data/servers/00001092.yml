@@ -1,0 +1,15 @@
+---
+ip: 181.131.200.7
+name: SGKFXBEP00599
+tags:
+  app: Kofax
+  role: Back End
+  country: SG
+  env: P
+cpu: 8
+memory: 56
+outgoing:
+  '3306':
+  - SGKFXDBD00585
+  - JPKFXDBP00597
+  - JPKFXDBP00598

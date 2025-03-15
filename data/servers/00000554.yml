@@ -1,0 +1,20 @@
+---
+ip: 204.146.51.38
+name: JPCFLFEP00379
+tags:
+  app: Confluence
+  role: Front End
+  country: JP
+  env: P
+cpu: 12
+memory: 8
+outgoing:
+  '443':
+  - CACFLBED00362
+  - MXCFLFED00363
+  - USCFLBED00364
+  - SGITSBEP00371
+  - JPCFLBEP00372
+  - FRCFLBEP00373
+  - JPCFLBEP00374
+  - BRCFLBEP00375

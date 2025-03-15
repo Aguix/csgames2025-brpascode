@@ -1,0 +1,24 @@
+---
+ip: 0.224.37.206
+name: USCFLMOD00367
+tags:
+  app: Confluence
+  role: Monitor
+  country: US
+  env: D
+cpu: 8
+memory: 56
+outgoing:
+  '1001':
+  - CACFLDBD00358
+  - BRCFLDBD00359
+  - FRKEEDBD00360
+  - JPCFLDBD00361
+  '1002':
+  - CACFLBED00362
+  - MXCFLFED00363
+  - USCFLBED00364
+  '1003':
+  - USCFLFED00365
+  '1004':
+  - USCFLLBD00366

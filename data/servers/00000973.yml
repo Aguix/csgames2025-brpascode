@@ -1,0 +1,14 @@
+---
+ip: 239.93.15.130
+name: SGKEEBED00546
+tags:
+  app: Keeper
+  role: Back End
+  country: SG
+  env: D
+cpu: 4
+memory: 16
+outgoing:
+  '3306':
+  - CAJIRDBD00544
+  - JPKEEDBD00545

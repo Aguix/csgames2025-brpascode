@@ -1,0 +1,11 @@
+---
+ip: 195.203.170.69
+name: SGJIRLBD00301
+tags:
+  app: Jira
+  role: Database
+  country: SG
+  env: D
+cpu: 8
+memory: 32
+outgoing: {}

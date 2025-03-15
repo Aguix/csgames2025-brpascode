@@ -1,0 +1,21 @@
+---
+ip: 10.95.245.248
+name: MXITSMOS00541
+tags:
+  app: IT Service Management
+  role: Front End
+  country: MX
+  env: S
+cpu: 4
+memory: 48
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518
+  - USITSBES00532
+  - FRITSBES00533
+  - MXITSBES00534

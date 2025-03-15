@@ -1,0 +1,11 @@
+---
+ip: 33.251.49.81
+name: BRNAGDBS00487
+tags:
+  app: Nagios
+  role: Database
+  country: BR
+  env: S
+cpu: 8
+memory: 64
+outgoing: {}

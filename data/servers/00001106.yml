@@ -1,0 +1,22 @@
+---
+ip: 205.217.168.134
+name: SGKFXLBP00602
+tags:
+  app: Kofax
+  role: Load balancer
+  country: SG
+  env: P
+cpu: 16
+memory: 40
+outgoing:
+  '443':
+  - SGKFXFED00586
+  - BRKFXFED00587
+  - MXKFXFED00588
+  - SGCFLFED00589
+  - JPKFXFED00590
+  - MXMTSFED00591
+  - BRKFXFED00592
+  - BRKFXFED00592
+  - MXKFXFED00593
+  - SGKFXFEP00601

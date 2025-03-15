@@ -1,0 +1,13 @@
+---
+ip: 165.251.34.90
+name: CATFMMOD00551
+tags:
+  app: Keeper
+  role: Front End
+  country: CA
+  env: D
+cpu: 12
+memory: 32
+outgoing:
+  '443':
+  - SGKEEBED00546

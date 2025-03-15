@@ -1,0 +1,11 @@
+---
+ip: 251.181.191.170
+name: MXMTSDBP00641
+tags:
+  app: Mantis BT
+  role: Database
+  country: MX
+  env: P
+cpu: 16
+memory: 32
+outgoing: {}

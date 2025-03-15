@@ -1,0 +1,14 @@
+---
+ip: 203.234.135.28
+name: CAMTSFED00635
+tags:
+  app: Mantis BT
+  role: Front End
+  country: CA
+  env: D
+cpu: 16
+memory: 32
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632

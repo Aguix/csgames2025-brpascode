@@ -1,0 +1,13 @@
+---
+ip: 59.74.21.212
+name: SGCFLFED00589
+tags:
+  app: Kofax
+  role: Front End
+  country: SG
+  env: D
+cpu: 4
+memory: 56
+outgoing:
+  '443':
+  - CAKFXBED00585

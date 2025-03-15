@@ -1,0 +1,13 @@
+---
+ip: 230.170.66.171
+name: JPITSFED00504
+tags:
+  app: IT Service Management
+  role: Front End
+  country: JP
+  env: D
+cpu: 4
+memory: 32
+outgoing:
+  '443':
+  - FRITSBED00501

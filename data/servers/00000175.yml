@@ -1,0 +1,15 @@
+---
+ip: 133.203.87.189
+name: BRADPFED00258
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: BR
+  env: D
+cpu: 16
+memory: 32
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256

@@ -1,0 +1,11 @@
+---
+ip: 185.121.155.39
+name: CAKFXDBS00613
+tags:
+  app: Kofax
+  role: Database
+  country: CA
+  env: S
+cpu: 16
+memory: 64
+outgoing: {}

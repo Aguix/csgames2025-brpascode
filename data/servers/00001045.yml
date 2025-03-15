@@ -1,0 +1,20 @@
+---
+ip: 147.32.156.206
+name: USKEEBET00565
+tags:
+  app: Keeper
+  role: Back End
+  country: US
+  env: T
+cpu: 16
+memory: 8
+outgoing:
+  '3306':
+  - CAJIRDBD00544
+  - JPKEEDBD00545
+  - BRKEEDBP00554
+  - SGKEEDBP00555
+  - BRKEEDBP00556
+  - JPITSDBT00562
+  - MXKEEDBT00562
+  - JPKEEDBT00563

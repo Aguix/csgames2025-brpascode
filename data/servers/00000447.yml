@@ -1,0 +1,19 @@
+---
+ip: 16.207.248.154
+name: BRJIRBEP00321
+tags:
+  app: Jira
+  role: Back End
+  country: BR
+  env: P
+cpu: 8
+memory: 32
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302
+  - USJIRDBP00317
+  - FRJIRDBP00318
+  - FRJIRDBP00319
+  - USJIRBEP00320

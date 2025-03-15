@@ -1,0 +1,11 @@
+---
+ip: 118.110.219.68
+name: JPITSDBP00509
+tags:
+  app: IT Service Management
+  role: Database
+  country: JP
+  env: P
+cpu: 4
+memory: 16
+outgoing: {}

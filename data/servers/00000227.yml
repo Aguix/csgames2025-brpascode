@@ -1,0 +1,16 @@
+---
+ip: 99.164.190.254
+name: FRADPBED00256
+tags:
+  app: Ad Manager Plus
+  role: Back End
+  country: FR
+  env: D
+cpu: 16
+memory: 8
+outgoing:
+  '3306':
+  - JPADPBED00251
+  - BRADPDBD00252
+  - CAADPDBD00253
+  - FRADPDBD00254

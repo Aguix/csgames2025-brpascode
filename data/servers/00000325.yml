@@ -1,0 +1,15 @@
+---
+ip: 94.68.115.218
+name: USJIRBED00303
+tags:
+  app: Jira
+  role: Back End
+  country: US
+  env: D
+cpu: 16
+memory: 40
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302

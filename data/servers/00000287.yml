@@ -1,0 +1,15 @@
+---
+ip: 207.168.66.146
+name: JPMTSFED00257
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: JP
+  env: D
+cpu: 12
+memory: 64
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256

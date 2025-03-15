@@ -1,0 +1,11 @@
+---
+ip: 184.6.179.224
+name: MXKEEDBT00562
+tags:
+  app: Keeper
+  role: Database
+  country: MX
+  env: T
+cpu: 16
+memory: 40
+outgoing: {}

@@ -1,0 +1,18 @@
+---
+ip: 69.183.25.160
+name: USSFCFEP00430
+tags:
+  app: Saleforce
+  role: Front End
+  country: US
+  env: P
+cpu: 12
+memory: 48
+outgoing:
+  '443':
+  - JPSFCBED00411
+  - USSFCBED00412
+  - BRSFCBED00413
+  - CAMTSFED00414
+  - JPSFCFED00415
+  - FRSFCBEP00426

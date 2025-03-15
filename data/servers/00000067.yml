@@ -1,0 +1,20 @@
+---
+ip: 216.143.29.163
+name: BRTFMBET00227
+tags:
+  app: Terraform
+  role: Back End
+  country: BR
+  env: T
+cpu: 4
+memory: 64
+outgoing:
+  '3306':
+  - JPTFMDBD00195
+  - MXTFMDBP00206
+  - MXSFCDBP00207
+  - JPTFMDBP00208
+  - FRTFMDBT00222
+  - USTFMDBT00223
+  - SGTFMDBT00224
+  - JPTFMDBT00225

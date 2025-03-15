@@ -1,0 +1,18 @@
+---
+ip: 2.72.167.42
+name: FRSFCFEP00428
+tags:
+  app: Saleforce
+  role: Front End
+  country: FR
+  env: P
+cpu: 16
+memory: 64
+outgoing:
+  '443':
+  - JPSFCBED00411
+  - USSFCBED00412
+  - BRSFCBED00413
+  - CAMTSFED00414
+  - JPSFCFED00415
+  - FRSFCBEP00426

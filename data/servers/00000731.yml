@@ -1,0 +1,17 @@
+---
+ip: 240.86.145.141
+name: USSFCFED00421
+tags:
+  app: Saleforce
+  role: Front End
+  country: US
+  env: D
+cpu: 4
+memory: 16
+outgoing:
+  '443':
+  - JPSFCBED00411
+  - USSFCBED00412
+  - BRSFCBED00413
+  - CAMTSFED00414
+  - JPSFCFED00415

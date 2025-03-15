@@ -1,0 +1,13 @@
+---
+ip: 94.178.44.66
+name: CAKFXBED00585
+tags:
+  app: Kofax
+  role: Back End
+  country: CA
+  env: D
+cpu: 16
+memory: 16
+outgoing:
+  '3306':
+  - SGKFXDBD00585

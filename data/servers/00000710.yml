@@ -1,0 +1,11 @@
+---
+ip: 180.10.254.255
+name: USSFCDBT00438
+tags:
+  app: Saleforce
+  role: Database
+  country: US
+  env: T
+cpu: 12
+memory: 32
+outgoing: {}

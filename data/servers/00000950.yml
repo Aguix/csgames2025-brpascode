@@ -1,0 +1,18 @@
+---
+ip: 67.186.206.197
+name: MXITSFET00525
+tags:
+  app: IT Service Management
+  role: Front End
+  country: MX
+  env: T
+cpu: 8
+memory: 56
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518

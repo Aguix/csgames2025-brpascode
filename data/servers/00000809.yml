@@ -1,0 +1,11 @@
+---
+ip: 144.124.26.90
+name: BRNAGDBT00472
+tags:
+  app: Nagios
+  role: Database
+  country: BR
+  env: T
+cpu: 4
+memory: 32
+outgoing: {}

@@ -1,0 +1,13 @@
+---
+ip: 71.38.104.253
+name: JPKFXFED00590
+tags:
+  app: Kofax
+  role: Front End
+  country: JP
+  env: D
+cpu: 4
+memory: 64
+outgoing:
+  '443':
+  - CAKFXBED00585

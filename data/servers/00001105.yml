@@ -1,0 +1,21 @@
+---
+ip: 233.103.7.141
+name: BRKFXLBD00595
+tags:
+  app: Kofax
+  role: Load balancer
+  country: BR
+  env: D
+cpu: 16
+memory: 40
+outgoing:
+  '443':
+  - SGKFXFED00586
+  - BRKFXFED00587
+  - MXKFXFED00588
+  - SGCFLFED00589
+  - JPKFXFED00590
+  - MXMTSFED00591
+  - BRKFXFED00592
+  - BRKFXFED00592
+  - MXKFXFED00593

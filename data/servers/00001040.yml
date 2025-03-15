@@ -1,0 +1,11 @@
+---
+ip: 227.237.13.167
+name: CAKEEDBS00574
+tags:
+  app: Keeper
+  role: Database
+  country: CA
+  env: S
+cpu: 4
+memory: 64
+outgoing: {}

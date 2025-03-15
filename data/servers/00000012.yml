@@ -1,0 +1,17 @@
+---
+ip: 113.142.109.98
+name: BRTFMFED00202
+tags:
+  app: Terraform
+  role: Front End
+  country: BR
+  env: D
+cpu: 4
+memory: 64
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199

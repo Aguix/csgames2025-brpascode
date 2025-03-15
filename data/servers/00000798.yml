@@ -1,0 +1,17 @@
+---
+ip: 228.185.21.208
+name: SGNAGFET00481
+tags:
+  app: Nagios
+  role: Front End
+  country: SG
+  env: T
+cpu: 8
+memory: 8
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476

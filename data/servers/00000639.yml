@@ -1,0 +1,14 @@
+---
+ip: 59.191.218.70
+name: JPSFCFED00415
+tags:
+  app: Saleforce
+  role: Back End
+  country: JP
+  env: D
+cpu: 8
+memory: 24
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410

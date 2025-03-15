@@ -1,0 +1,13 @@
+---
+ip: 87.183.164.153
+name: SGTFMBED00197
+tags:
+  app: Terraform
+  role: Back End
+  country: SG
+  env: D
+cpu: 8
+memory: 16
+outgoing:
+  '3306':
+  - JPTFMDBD00195

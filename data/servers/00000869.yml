@@ -1,0 +1,15 @@
+---
+ip: 247.207.1.233
+name: CAITSBEP00512
+tags:
+  app: IT Service Management
+  role: Back End
+  country: CA
+  env: P
+cpu: 12
+memory: 64
+outgoing:
+  '3306':
+  - FRITSDBD00500
+  - FRITSDBD00500
+  - JPITSDBP00509

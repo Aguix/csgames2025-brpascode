@@ -1,0 +1,24 @@
+---
+ip: 172.183.67.246
+name: CAJIRBES00352
+tags:
+  app: Jira
+  role: Back End
+  country: CA
+  env: S
+cpu: 8
+memory: 24
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302
+  - USJIRDBP00317
+  - FRJIRDBP00318
+  - FRJIRDBP00319
+  - USJIRBEP00320
+  - MXJIRDBT00336
+  - CAJIRDBT00336
+  - JPJIRDBS00349
+  - SGJIRDBS00350
+  - SGJIRDBS00351

@@ -1,0 +1,13 @@
+---
+ip: 89.31.10.182
+name: MXMTSBED00632
+tags:
+  app: Mantis BT
+  role: Back End
+  country: MX
+  env: D
+cpu: 4
+memory: 48
+outgoing:
+  '3306':
+  - MXMTSDBD00630

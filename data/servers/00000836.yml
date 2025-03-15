@@ -1,0 +1,19 @@
+---
+ip: 44.13.243.63
+name: CANAGFES00493
+tags:
+  app: Nagios
+  role: Front End
+  country: CA
+  env: S
+cpu: 12
+memory: 16
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476
+  - USNAGBES00488
+  - MXNAGBES00489

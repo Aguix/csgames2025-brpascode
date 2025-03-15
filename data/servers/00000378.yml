@@ -1,0 +1,11 @@
+---
+ip: 12.127.10.75
+name: SGJIRDBD00301
+tags:
+  app: Jira
+  role: Database
+  country: SG
+  env: D
+cpu: 12
+memory: 56
+outgoing: {}

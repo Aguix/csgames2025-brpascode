@@ -1,0 +1,15 @@
+---
+ip: 194.19.49.16
+name: USKFXFED00260
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: US
+  env: D
+cpu: 12
+memory: 64
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256

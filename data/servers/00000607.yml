@@ -1,0 +1,13 @@
+---
+ip: 173.17.36.16
+name: USCFLLBD00366
+tags:
+  app: Confluence
+  role: Load balancer
+  country: US
+  env: D
+cpu: 12
+memory: 8
+outgoing:
+  '443':
+  - USCFLFED00365

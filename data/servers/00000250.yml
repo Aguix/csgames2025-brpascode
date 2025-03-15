@@ -1,0 +1,22 @@
+---
+ip: 114.116.205.244
+name: USKFXFET00286
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: US
+  env: T
+cpu: 4
+memory: 56
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256
+  - JPADPBEP00269
+  - FRADPBEP00270
+  - FRADPBEP00271
+  - CAADPBET00280
+  - USADPBET00281
+  - FRADPBET00282
+  - JPJIRBET00283

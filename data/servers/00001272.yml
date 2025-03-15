@@ -1,0 +1,15 @@
+---
+ip: 114.242.161.33
+name: FRMTSBEP00643
+tags:
+  app: Mantis BT
+  role: Back End
+  country: FR
+  env: P
+cpu: 4
+memory: 48
+outgoing:
+  '3306':
+  - MXMTSDBD00630
+  - FRMTSFEP00640
+  - MXMTSDBP00641

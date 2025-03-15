@@ -1,0 +1,21 @@
+---
+ip: 62.129.51.252
+name: USTFMFEP00216
+tags:
+  app: Terraform
+  role: Front End
+  country: US
+  env: P
+cpu: 4
+memory: 64
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199
+  - CATFMBEP00208
+  - SGITSBEP00209
+  - JPTFMBEP00210
+  - JPTFMBEP00211

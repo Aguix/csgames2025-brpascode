@@ -1,0 +1,13 @@
+---
+ip: 147.100.64.151
+name: USKEEFED00548
+tags:
+  app: Keeper
+  role: Front End
+  country: US
+  env: D
+cpu: 4
+memory: 32
+outgoing:
+  '443':
+  - SGKEEBED00546

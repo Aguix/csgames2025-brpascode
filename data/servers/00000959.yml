@@ -1,0 +1,21 @@
+---
+ip: 136.25.204.234
+name: USITSFES00540
+tags:
+  app: IT Service Management
+  role: Front End
+  country: US
+  env: S
+cpu: 4
+memory: 8
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518
+  - USITSBES00532
+  - FRITSBES00533
+  - MXITSBES00534

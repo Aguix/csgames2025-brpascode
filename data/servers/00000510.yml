@@ -1,0 +1,16 @@
+---
+ip: 214.151.5.191
+name: CACFLBED00362
+tags:
+  app: Confluence
+  role: Back End
+  country: CA
+  env: D
+cpu: 12
+memory: 8
+outgoing:
+  '3306':
+  - CACFLDBD00358
+  - BRCFLDBD00359
+  - FRKEEDBD00360
+  - JPCFLDBD00361

@@ -1,0 +1,25 @@
+---
+ip: 251.160.109.26
+name: JPMTSMOD00639
+tags:
+  app: Mantis BT
+  role: Monitor
+  country: JP
+  env: D
+cpu: 8
+memory: 40
+outgoing:
+  '1001':
+  - MXMTSDBD00630
+  '1002':
+  - USMTSBED00631
+  - MXMTSBED00632
+  '1003':
+  - FRMTSFED00633
+  - SGMTSFED00634
+  - CAMTSFED00635
+  - SGMTSFED00636
+  - MXMTSFED00637
+  - SGMTSFED00638
+  '1004':
+  - MXCFLDBD00639

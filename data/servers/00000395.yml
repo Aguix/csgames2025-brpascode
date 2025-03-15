@@ -1,0 +1,19 @@
+---
+ip: 208.134.194.21
+name: SGADPBEP00325
+tags:
+  app: Jira
+  role: Back End
+  country: SG
+  env: P
+cpu: 12
+memory: 48
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302
+  - USJIRDBP00317
+  - FRJIRDBP00318
+  - FRJIRDBP00319
+  - USJIRBEP00320

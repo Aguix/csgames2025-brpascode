@@ -1,0 +1,11 @@
+---
+ip: 90.227.172.85
+name: JPMTSDBS00666
+tags:
+  app: Mantis BT
+  role: Database
+  country: JP
+  env: S
+cpu: 16
+memory: 56
+outgoing: {}

@@ -1,0 +1,11 @@
+---
+ip: 60.67.140.70
+name: SGTFMDBT00224
+tags:
+  app: Terraform
+  role: Database
+  country: SG
+  env: T
+cpu: 4
+memory: 32
+outgoing: {}

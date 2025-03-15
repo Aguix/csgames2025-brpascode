@@ -1,0 +1,17 @@
+---
+ip: 91.180.233.66
+name: FRADPBEP00271
+tags:
+  app: Ad Manager Plus
+  role: Back End
+  country: FR
+  env: P
+cpu: 8
+memory: 16
+outgoing:
+  '3306':
+  - JPADPBED00251
+  - BRADPDBD00252
+  - CAADPDBD00253
+  - FRADPDBD00254
+  - MXADPDBP00269

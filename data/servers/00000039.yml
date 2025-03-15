@@ -1,0 +1,21 @@
+---
+ip: 53.210.183.121
+name: JPTFMFEP00214
+tags:
+  app: Terraform
+  role: Front End
+  country: JP
+  env: P
+cpu: 8
+memory: 64
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199
+  - CATFMBEP00208
+  - SGITSBEP00209
+  - JPTFMBEP00210
+  - JPTFMBEP00211

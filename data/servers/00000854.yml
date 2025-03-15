@@ -1,0 +1,13 @@
+---
+ip: 214.191.219.12
+name: SGITSDBD00503
+tags:
+  app: IT Service Management
+  role: Front End
+  country: SG
+  env: D
+cpu: 8
+memory: 24
+outgoing:
+  '443':
+  - FRITSBED00501

@@ -1,0 +1,23 @@
+---
+ip: 14.106.70.15
+name: USKEEBES00580
+tags:
+  app: Keeper
+  role: Back End
+  country: US
+  env: S
+cpu: 4
+memory: 40
+outgoing:
+  '3306':
+  - CAJIRDBD00544
+  - JPKEEDBD00545
+  - BRKEEDBP00554
+  - SGKEEDBP00555
+  - BRKEEDBP00556
+  - JPITSDBT00562
+  - MXKEEDBT00562
+  - JPKEEDBT00563
+  - MXKEEDBS00573
+  - CAKEEDBS00574
+  - SGKEEDBS00575

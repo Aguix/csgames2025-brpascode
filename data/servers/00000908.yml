@@ -1,0 +1,18 @@
+---
+ip: 212.180.30.106
+name: USITSFET00524
+tags:
+  app: IT Service Management
+  role: Front End
+  country: US
+  env: T
+cpu: 8
+memory: 16
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518

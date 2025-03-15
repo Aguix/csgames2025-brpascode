@@ -1,0 +1,11 @@
+---
+ip: 152.12.16.206
+name: JPADPDBT00278
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: JP
+  env: T
+cpu: 8
+memory: 40
+outgoing: {}

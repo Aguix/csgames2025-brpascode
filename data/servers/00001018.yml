@@ -1,0 +1,14 @@
+---
+ip: 212.188.196.209
+name: USKEEFEP00558
+tags:
+  app: Keeper
+  role: Front End
+  country: US
+  env: P
+cpu: 12
+memory: 40
+outgoing:
+  '443':
+  - SGKEEBED00546
+  - CAKEEBEP00556

@@ -1,0 +1,19 @@
+---
+ip: 111.43.68.147
+name: SGNAGFES00490
+tags:
+  app: Nagios
+  role: Front End
+  country: SG
+  env: S
+cpu: 16
+memory: 40
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476
+  - USNAGBES00488
+  - MXNAGBES00489

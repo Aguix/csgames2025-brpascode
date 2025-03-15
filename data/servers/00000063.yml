@@ -1,0 +1,16 @@
+---
+ip: 195.220.146.197
+name: SGITSBEP00209
+tags:
+  app: Terraform
+  role: Back End
+  country: SG
+  env: P
+cpu: 8
+memory: 16
+outgoing:
+  '3306':
+  - JPTFMDBD00195
+  - MXTFMDBP00206
+  - MXSFCDBP00207
+  - JPTFMDBP00208

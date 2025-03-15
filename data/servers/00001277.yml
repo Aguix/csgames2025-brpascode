@@ -1,0 +1,16 @@
+---
+ip: 126.29.29.159
+name: USMTSBET00655
+tags:
+  app: Mantis BT
+  role: Back End
+  country: US
+  env: T
+cpu: 4
+memory: 64
+outgoing:
+  '3306':
+  - MXMTSDBD00630
+  - FRMTSFEP00640
+  - MXMTSDBP00641
+  - CAMTSDBT00651

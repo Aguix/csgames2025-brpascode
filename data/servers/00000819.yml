@@ -1,0 +1,14 @@
+---
+ip: 114.132.64.142
+name: MXNAGBEP00466
+tags:
+  app: Nagios
+  role: Back End
+  country: MX
+  env: P
+cpu: 8
+memory: 56
+outgoing:
+  '3306':
+  - SGNAGDBD00458
+  - MXNAGDBP00465

@@ -1,0 +1,13 @@
+---
+ip: 143.184.194.2
+name: FRNAGBED00460
+tags:
+  app: Nagios
+  role: Back End
+  country: FR
+  env: D
+cpu: 16
+memory: 40
+outgoing:
+  '3306':
+  - SGNAGDBD00458

@@ -1,0 +1,17 @@
+---
+ip: 231.58.36.124
+name: BRNAGDBT00477
+tags:
+  app: Nagios
+  role: Front End
+  country: BR
+  env: T
+cpu: 12
+memory: 24
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476

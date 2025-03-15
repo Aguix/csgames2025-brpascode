@@ -1,0 +1,13 @@
+---
+ip: 234.66.192.200
+name: BRKFXFED00587
+tags:
+  app: Kofax
+  role: Front End
+  country: BR
+  env: D
+cpu: 12
+memory: 48
+outgoing:
+  '443':
+  - CAKFXBED00585

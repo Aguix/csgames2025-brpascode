@@ -1,0 +1,25 @@
+---
+ip: 51.110.158.96
+name: FRTFMFET00235
+tags:
+  app: Terraform
+  role: Front End
+  country: FR
+  env: T
+cpu: 8
+memory: 64
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199
+  - CATFMBEP00208
+  - SGITSBEP00209
+  - JPTFMBEP00210
+  - JPTFMBEP00211
+  - FRTFMBET00226
+  - BRTFMBET00227
+  - USTFMBET00227
+  - MXTFMBET00228

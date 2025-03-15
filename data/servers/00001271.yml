@@ -1,0 +1,15 @@
+---
+ip: 3.131.30.11
+name: SGMTSBEP00642
+tags:
+  app: Mantis BT
+  role: Back End
+  country: SG
+  env: P
+cpu: 4
+memory: 64
+outgoing:
+  '3306':
+  - MXMTSDBD00630
+  - FRMTSFEP00640
+  - MXMTSDBP00641

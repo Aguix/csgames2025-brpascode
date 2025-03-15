@@ -1,0 +1,22 @@
+---
+ip: 233.55.102.197
+name: JPNAGLBT00483
+tags:
+  app: Nagios
+  role: Load balancer
+  country: JP
+  env: T
+cpu: 12
+memory: 24
+outgoing:
+  '443':
+  - BRADPFED00462
+  - MXNAGFED00463
+  - USNAGFEP00467
+  - FRNAGFEP00468
+  - BRNAGDBT00477
+  - JPNAGFET00478
+  - JPNAGFET00479
+  - BRNAGFET00480
+  - SGNAGFET00481
+  - CANAGFET00482

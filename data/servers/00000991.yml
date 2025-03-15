@@ -1,0 +1,13 @@
+---
+ip: 243.185.58.241
+name: BRKEEFED00550
+tags:
+  app: Keeper
+  role: Front End
+  country: BR
+  env: D
+cpu: 8
+memory: 24
+outgoing:
+  '443':
+  - SGKEEBED00546

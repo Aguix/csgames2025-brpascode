@@ -1,0 +1,26 @@
+---
+ip: 57.94.251.109
+name: CAITSMOD00508
+tags:
+  app: IT Service Management
+  role: Monitor
+  country: CA
+  env: D
+cpu: 4
+memory: 8
+outgoing:
+  '1001':
+  - FRITSDBD00500
+  - FRITSDBD00500
+  '1002':
+  - FRITSBED00501
+  '1003':
+  - USITSFED00502
+  - SGITSDBD00503
+  - MXITSFED00503
+  - JPITSFED00504
+  - MXITSFED00505
+  - MXITSFED00506
+  '1004':
+  - BRITSMOD00507
+  - USITSLBD00508

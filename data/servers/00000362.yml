@@ -1,0 +1,16 @@
+---
+ip: 17.229.32.134
+name: BRJIRFED00313
+tags:
+  app: Jira
+  role: Front End
+  country: BR
+  env: D
+cpu: 12
+memory: 32
+outgoing:
+  '443':
+  - BRJIRBED00303
+  - USJIRBED00303
+  - BRJIRBED00304
+  - BRJIRBED00305

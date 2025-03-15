@@ -1,0 +1,11 @@
+---
+ip: 60.167.152.218
+name: FRSFCDBD00410
+tags:
+  app: Saleforce
+  role: Database
+  country: FR
+  env: D
+cpu: 8
+memory: 24
+outgoing: {}

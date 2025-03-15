@@ -1,0 +1,17 @@
+---
+ip: 68.162.110.126
+name: MXMTSFEP00647
+tags:
+  app: Mantis BT
+  role: Front End
+  country: MX
+  env: P
+cpu: 8
+memory: 24
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632
+  - SGMTSBEP00642
+  - FRMTSBEP00643
+  - USMTSBEP00644

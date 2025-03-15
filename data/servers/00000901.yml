@@ -1,0 +1,17 @@
+---
+ip: 97.53.226.241
+name: MXITSFEP00513
+tags:
+  app: IT Service Management
+  role: Front End
+  country: MX
+  env: P
+cpu: 4
+memory: 8
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512

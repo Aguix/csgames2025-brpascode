@@ -1,0 +1,17 @@
+---
+ip: 169.32.238.42
+name: MXTFMFED00200
+tags:
+  app: Terraform
+  role: Front End
+  country: MX
+  env: D
+cpu: 8
+memory: 16
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199

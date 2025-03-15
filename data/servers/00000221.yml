@@ -1,0 +1,11 @@
+---
+ip: 50.143.251.216
+name: SGADPDBT00277
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: SG
+  env: T
+cpu: 16
+memory: 64
+outgoing: {}

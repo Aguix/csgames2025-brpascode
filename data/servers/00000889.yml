@@ -1,0 +1,14 @@
+---
+ip: 66.115.28.233
+name: FRITSBED00501
+tags:
+  app: IT Service Management
+  role: Back End
+  country: FR
+  env: D
+cpu: 16
+memory: 56
+outgoing:
+  '3306':
+  - FRITSDBD00500
+  - FRITSDBD00500

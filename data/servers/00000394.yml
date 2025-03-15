@@ -1,0 +1,19 @@
+---
+ip: 43.176.164.66
+name: JPJIRBEP00324
+tags:
+  app: Jira
+  role: Back End
+  country: JP
+  env: P
+cpu: 12
+memory: 40
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302
+  - USJIRDBP00317
+  - FRJIRDBP00318
+  - FRJIRDBP00319
+  - USJIRBEP00320

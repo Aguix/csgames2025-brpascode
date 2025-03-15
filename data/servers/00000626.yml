@@ -1,0 +1,17 @@
+---
+ip: 138.186.229.74
+name: BRSFCFED00419
+tags:
+  app: Saleforce
+  role: Front End
+  country: BR
+  env: D
+cpu: 12
+memory: 16
+outgoing:
+  '443':
+  - JPSFCBED00411
+  - USSFCBED00412
+  - BRSFCBED00413
+  - CAMTSFED00414
+  - JPSFCFED00415

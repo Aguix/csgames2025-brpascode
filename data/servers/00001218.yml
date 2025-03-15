@@ -1,0 +1,17 @@
+---
+ip: 252.104.184.171
+name: JPMTSFEP00646
+tags:
+  app: Mantis BT
+  role: Front End
+  country: JP
+  env: P
+cpu: 8
+memory: 40
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632
+  - SGMTSBEP00642
+  - FRMTSBEP00643
+  - USMTSBEP00644

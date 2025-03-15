@@ -1,0 +1,14 @@
+---
+ip: 249.162.39.255
+name: CAMTSFED00414
+tags:
+  app: Saleforce
+  role: Back End
+  country: CA
+  env: D
+cpu: 16
+memory: 8
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410

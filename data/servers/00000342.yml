@@ -1,0 +1,11 @@
+---
+ip: 50.175.67.6
+name: USJIRDBP00317
+tags:
+  app: Jira
+  role: Database
+  country: US
+  env: P
+cpu: 16
+memory: 40
+outgoing: {}

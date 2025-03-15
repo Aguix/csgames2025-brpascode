@@ -1,0 +1,13 @@
+---
+ip: 129.134.153.34
+name: JPSFCFED00549
+tags:
+  app: Keeper
+  role: Front End
+  country: JP
+  env: D
+cpu: 12
+memory: 64
+outgoing:
+  '443':
+  - SGKEEBED00546

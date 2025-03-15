@@ -1,0 +1,21 @@
+---
+ip: 2.243.149.54
+name: SGKEEFES00582
+tags:
+  app: Keeper
+  role: Front End
+  country: SG
+  env: S
+cpu: 8
+memory: 64
+outgoing:
+  '443':
+  - SGKEEBED00546
+  - CAKEEBEP00556
+  - JPKEEBET00564
+  - USKEEBET00565
+  - SGKEEBES00576
+  - SGKEEBES00577
+  - BRKEEBES00578
+  - BRKEEBES00579
+  - USKEEBES00580

@@ -1,0 +1,17 @@
+---
+ip: 169.67.39.213
+name: BRNAGFET00480
+tags:
+  app: Nagios
+  role: Front End
+  country: BR
+  env: T
+cpu: 16
+memory: 64
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476

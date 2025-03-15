@@ -1,0 +1,17 @@
+---
+ip: 67.31.30.77
+name: BRMTSFEP00648
+tags:
+  app: Mantis BT
+  role: Front End
+  country: BR
+  env: P
+cpu: 4
+memory: 32
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632
+  - SGMTSBEP00642
+  - FRMTSBEP00643
+  - USMTSBEP00644

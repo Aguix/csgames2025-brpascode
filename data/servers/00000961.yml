@@ -1,0 +1,21 @@
+---
+ip: 146.162.48.120
+name: USITSFES00542
+tags:
+  app: IT Service Management
+  role: Front End
+  country: US
+  env: S
+cpu: 8
+memory: 40
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518
+  - USITSBES00532
+  - FRITSBES00533
+  - MXITSBES00534

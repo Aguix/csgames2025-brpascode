@@ -1,0 +1,18 @@
+---
+ip: 35.125.91.130
+name: BRADPFEP00272
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: BR
+  env: P
+cpu: 4
+memory: 24
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256
+  - JPADPBEP00269
+  - FRADPBEP00270
+  - FRADPBEP00271

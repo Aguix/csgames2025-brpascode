@@ -1,0 +1,11 @@
+---
+ip: 93.193.191.167
+name: CAADPDBT00279
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: CA
+  env: T
+cpu: 8
+memory: 32
+outgoing: {}

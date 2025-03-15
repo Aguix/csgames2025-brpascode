@@ -1,0 +1,26 @@
+---
+ip: 72.110.70.86
+name: BRSFCBEP00434
+tags:
+  app: Saleforce
+  role: Load balancer
+  country: BR
+  env: P
+cpu: 4
+memory: 64
+outgoing:
+  '443':
+  - SGSFCFED00416
+  - FRSFCFED00417
+  - MXSFCFED00418
+  - BRSFCFED00419
+  - USSFCFED00420
+  - USSFCFED00421
+  - USCFLFEP00427
+  - FRSFCFEP00428
+  - CASFCFEP00429
+  - USSFCFEP00430
+  - JPSFCFEP00431
+  - CASFCFEP00431
+  - BRSFCFEP00432
+  - CASFCFEP00433

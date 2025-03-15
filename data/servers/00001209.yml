@@ -1,0 +1,14 @@
+---
+ip: 102.146.114.63
+name: FRMTSFED00633
+tags:
+  app: Mantis BT
+  role: Front End
+  country: FR
+  env: D
+cpu: 12
+memory: 8
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632

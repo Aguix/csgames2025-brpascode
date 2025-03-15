@@ -1,0 +1,15 @@
+---
+ip: 80.78.41.101
+name: SGITSBEP00511
+tags:
+  app: IT Service Management
+  role: Back End
+  country: SG
+  env: P
+cpu: 16
+memory: 8
+outgoing:
+  '3306':
+  - FRITSDBD00500
+  - FRITSDBD00500
+  - JPITSDBP00509

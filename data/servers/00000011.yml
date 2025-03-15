@@ -1,0 +1,17 @@
+---
+ip: 5.189.223.152
+name: USTFMFED00201
+tags:
+  app: Terraform
+  role: Front End
+  country: US
+  env: D
+cpu: 16
+memory: 16
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199

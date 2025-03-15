@@ -1,0 +1,11 @@
+---
+ip: 46.16.97.73
+name: FRTFMDBT00222
+tags:
+  app: Terraform
+  role: Database
+  country: FR
+  env: T
+cpu: 8
+memory: 40
+outgoing: {}

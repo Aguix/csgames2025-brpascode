@@ -1,0 +1,11 @@
+---
+ip: 176.82.236.104
+name: CAJIRDBD00544
+tags:
+  app: Keeper
+  role: Database
+  country: CA
+  env: D
+cpu: 12
+memory: 56
+outgoing: {}

@@ -1,0 +1,11 @@
+---
+ip: 106.143.96.14
+name: JPTFMDBT00225
+tags:
+  app: Terraform
+  role: Database
+  country: JP
+  env: T
+cpu: 8
+memory: 48
+outgoing: {}

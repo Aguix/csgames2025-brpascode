@@ -1,0 +1,11 @@
+---
+ip: 78.158.73.24
+name: USJIRBEP00320
+tags:
+  app: Jira
+  role: Database
+  country: US
+  env: P
+cpu: 12
+memory: 16
+outgoing: {}

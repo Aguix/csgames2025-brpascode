@@ -1,0 +1,11 @@
+---
+ip: 93.25.234.147
+name: SGITSMOT00517
+tags:
+  app: IT Service Management
+  role: Database
+  country: SG
+  env: T
+cpu: 16
+memory: 48
+outgoing: {}

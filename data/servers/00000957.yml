@@ -1,0 +1,21 @@
+---
+ip: 19.147.245.48
+name: SGITSFES00538
+tags:
+  app: IT Service Management
+  role: Front End
+  country: SG
+  env: S
+cpu: 8
+memory: 32
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518
+  - USITSBES00532
+  - FRITSBES00533
+  - MXITSBES00534

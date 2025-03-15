@@ -1,0 +1,13 @@
+---
+ip: 146.200.26.230
+name: MXITSFED00506
+tags:
+  app: IT Service Management
+  role: Front End
+  country: MX
+  env: D
+cpu: 4
+memory: 40
+outgoing:
+  '443':
+  - FRITSBED00501

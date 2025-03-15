@@ -1,0 +1,11 @@
+---
+ip: 95.212.223.102
+name: USJIRDBD00302
+tags:
+  app: Jira
+  role: Database
+  country: US
+  env: D
+cpu: 12
+memory: 16
+outgoing: {}

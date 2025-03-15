@@ -1,0 +1,18 @@
+---
+ip: 192.205.215.215
+name: SGITSFET00521
+tags:
+  app: IT Service Management
+  role: Front End
+  country: SG
+  env: T
+cpu: 12
+memory: 24
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518

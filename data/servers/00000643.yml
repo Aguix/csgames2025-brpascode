@@ -1,0 +1,17 @@
+---
+ip: 219.193.251.133
+name: MXSFCFED00418
+tags:
+  app: Saleforce
+  role: Front End
+  country: MX
+  env: D
+cpu: 12
+memory: 56
+outgoing:
+  '443':
+  - JPSFCBED00411
+  - USSFCBED00412
+  - BRSFCBED00413
+  - CAMTSFED00414
+  - JPSFCFED00415

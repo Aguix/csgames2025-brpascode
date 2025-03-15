@@ -1,0 +1,22 @@
+---
+ip: 141.30.169.127
+name: BRKEEFET00288
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: BR
+  env: T
+cpu: 16
+memory: 32
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256
+  - JPADPBEP00269
+  - FRADPBEP00270
+  - FRADPBEP00271
+  - CAADPBET00280
+  - USADPBET00281
+  - FRADPBET00282
+  - JPJIRBET00283

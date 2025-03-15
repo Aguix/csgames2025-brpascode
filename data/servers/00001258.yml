@@ -1,0 +1,24 @@
+---
+ip: 55.177.97.217
+name: MXMTSMOP00649
+tags:
+  app: Mantis BT
+  role: Load balancer
+  country: MX
+  env: P
+cpu: 12
+memory: 64
+outgoing:
+  '443':
+  - FRMTSFED00633
+  - SGMTSFED00634
+  - CAMTSFED00635
+  - SGMTSFED00636
+  - MXMTSFED00637
+  - SGMTSFED00638
+  - SGMTSFEP00644
+  - SGMTSFEP00645
+  - JPMTSFEP00646
+  - JPMTSFEP00646
+  - MXMTSFEP00647
+  - BRMTSFEP00648

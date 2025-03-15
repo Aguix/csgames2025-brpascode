@@ -1,0 +1,17 @@
+---
+ip: 192.137.123.71
+name: JPNAGFET00479
+tags:
+  app: Nagios
+  role: Front End
+  country: JP
+  env: T
+cpu: 8
+memory: 32
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476

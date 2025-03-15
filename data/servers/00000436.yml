@@ -1,0 +1,11 @@
+---
+ip: 2.136.200.139
+name: FRJIRDBP00319
+tags:
+  app: Jira
+  role: Database
+  country: FR
+  env: P
+cpu: 4
+memory: 40
+outgoing: {}

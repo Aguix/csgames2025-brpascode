@@ -1,0 +1,14 @@
+---
+ip: 68.217.84.163
+name: USKEEFEP00557
+tags:
+  app: Keeper
+  role: Front End
+  country: US
+  env: P
+cpu: 12
+memory: 40
+outgoing:
+  '443':
+  - SGKEEBED00546
+  - CAKEEBEP00556

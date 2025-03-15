@@ -1,0 +1,11 @@
+---
+ip: 14.75.106.59
+name: SGKEEDBS00575
+tags:
+  app: Keeper
+  role: Database
+  country: SG
+  env: S
+cpu: 12
+memory: 16
+outgoing: {}

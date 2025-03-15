@@ -1,0 +1,21 @@
+---
+ip: 192.147.180.241
+name: JPITSFES00536
+tags:
+  app: IT Service Management
+  role: Front End
+  country: JP
+  env: S
+cpu: 4
+memory: 48
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518
+  - USITSBES00532
+  - FRITSBES00533
+  - MXITSBES00534

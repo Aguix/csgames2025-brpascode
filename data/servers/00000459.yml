@@ -1,0 +1,16 @@
+---
+ip: 45.97.31.240
+name: JPJIRFED00308
+tags:
+  app: Jira
+  role: Front End
+  country: JP
+  env: D
+cpu: 8
+memory: 16
+outgoing:
+  '443':
+  - BRJIRBED00303
+  - USJIRBED00303
+  - BRJIRBED00304
+  - BRJIRBED00305

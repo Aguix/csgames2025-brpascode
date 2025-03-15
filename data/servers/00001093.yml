@@ -1,0 +1,15 @@
+---
+ip: 21.129.149.226
+name: FRKFXBEP00600
+tags:
+  app: Kofax
+  role: Back End
+  country: FR
+  env: P
+cpu: 12
+memory: 16
+outgoing:
+  '3306':
+  - SGKFXDBD00585
+  - JPKFXDBP00597
+  - JPKFXDBP00598

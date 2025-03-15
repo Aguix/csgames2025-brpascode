@@ -1,0 +1,15 @@
+---
+ip: 183.121.205.167
+name: CAADPFED00265
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: CA
+  env: D
+cpu: 4
+memory: 16
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256

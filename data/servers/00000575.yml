@@ -1,0 +1,11 @@
+---
+ip: 61.253.171.80
+name: CACFLDBS00395
+tags:
+  app: Confluence
+  role: Database
+  country: CA
+  env: S
+cpu: 4
+memory: 16
+outgoing: {}

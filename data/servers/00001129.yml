@@ -1,0 +1,15 @@
+---
+ip: 68.114.56.73
+name: SGKFXFEP00601
+tags:
+  app: Kofax
+  role: Front End
+  country: SG
+  env: P
+cpu: 16
+memory: 48
+outgoing:
+  '443':
+  - CAKFXBED00585
+  - SGKFXBEP00599
+  - FRKFXBEP00600

@@ -1,0 +1,14 @@
+---
+ip: 169.75.90.215
+name: SGMTSFED00634
+tags:
+  app: Mantis BT
+  role: Front End
+  country: SG
+  env: D
+cpu: 8
+memory: 16
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632

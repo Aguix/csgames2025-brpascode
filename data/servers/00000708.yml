@@ -1,0 +1,11 @@
+---
+ip: 54.82.185.76
+name: MXSFCDBT00436
+tags:
+  app: Saleforce
+  role: Database
+  country: MX
+  env: T
+cpu: 8
+memory: 64
+outgoing: {}

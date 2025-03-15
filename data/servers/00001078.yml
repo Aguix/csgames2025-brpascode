@@ -1,0 +1,13 @@
+---
+ip: 158.226.35.84
+name: MXKFXFED00588
+tags:
+  app: Kofax
+  role: Front End
+  country: MX
+  env: D
+cpu: 12
+memory: 64
+outgoing:
+  '443':
+  - CAKFXBED00585

@@ -1,0 +1,19 @@
+---
+ip: 250.210.18.164
+name: CAKFXBEP00323
+tags:
+  app: Jira
+  role: Back End
+  country: CA
+  env: P
+cpu: 12
+memory: 24
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302
+  - USJIRDBP00317
+  - FRJIRDBP00318
+  - FRJIRDBP00319
+  - USJIRBEP00320

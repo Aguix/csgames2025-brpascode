@@ -1,0 +1,14 @@
+---
+ip: 181.110.231.122
+name: MXNAGDBD00463
+tags:
+  app: Nagios
+  role: Load balancer
+  country: MX
+  env: D
+cpu: 12
+memory: 8
+outgoing:
+  '443':
+  - BRADPFED00462
+  - MXNAGFED00463

@@ -1,0 +1,11 @@
+---
+ip: 159.243.71.235
+name: FRITSDBT00516
+tags:
+  app: IT Service Management
+  role: Database
+  country: FR
+  env: T
+cpu: 12
+memory: 64
+outgoing: {}

@@ -1,0 +1,11 @@
+---
+ip: 241.19.178.16
+name: SGCFLDBP00369
+tags:
+  app: Confluence
+  role: Database
+  country: SG
+  env: P
+cpu: 4
+memory: 16
+outgoing: {}

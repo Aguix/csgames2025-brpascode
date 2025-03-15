@@ -1,0 +1,15 @@
+---
+ip: 135.250.144.218
+name: USADPFED00264
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: US
+  env: D
+cpu: 4
+memory: 24
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256

@@ -1,0 +1,19 @@
+---
+ip: 106.32.91.87
+name: USITSBES00532
+tags:
+  app: IT Service Management
+  role: Back End
+  country: US
+  env: S
+cpu: 16
+memory: 56
+outgoing:
+  '3306':
+  - FRITSDBD00500
+  - FRITSDBD00500
+  - JPITSDBP00509
+  - FRITSDBT00516
+  - SGITSMOT00517
+  - JPITSDBT00517
+  - MXITSDBS00531

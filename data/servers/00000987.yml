@@ -1,0 +1,17 @@
+---
+ip: 114.236.208.213
+name: CAKEEBEP00556
+tags:
+  app: Keeper
+  role: Back End
+  country: CA
+  env: P
+cpu: 16
+memory: 32
+outgoing:
+  '3306':
+  - CAJIRDBD00544
+  - JPKEEDBD00545
+  - BRKEEDBP00554
+  - SGKEEDBP00555
+  - BRKEEDBP00556

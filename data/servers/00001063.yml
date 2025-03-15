@@ -1,0 +1,21 @@
+---
+ip: 101.42.169.89
+name: FRKEEFES00581
+tags:
+  app: Keeper
+  role: Front End
+  country: FR
+  env: S
+cpu: 16
+memory: 16
+outgoing:
+  '443':
+  - SGKEEBED00546
+  - CAKEEBEP00556
+  - JPKEEBET00564
+  - USKEEBET00565
+  - SGKEEBES00576
+  - SGKEEBES00577
+  - BRKEEBES00578
+  - BRKEEBES00579
+  - USKEEBES00580

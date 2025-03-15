@@ -1,0 +1,19 @@
+---
+ip: 243.243.49.187
+name: BRKEELBP00560
+tags:
+  app: Keeper
+  role: Load balancer
+  country: BR
+  env: P
+cpu: 12
+memory: 16
+outgoing:
+  '443':
+  - BRNAGFED00547
+  - USKEEFED00548
+  - JPSFCFED00549
+  - BRKEEFED00550
+  - CATFMMOD00551
+  - USKEEFEP00557
+  - USKEEFEP00558

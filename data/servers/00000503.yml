@@ -1,0 +1,11 @@
+---
+ip: 250.118.250.132
+name: CACFLDBD00358
+tags:
+  app: Confluence
+  role: Database
+  country: CA
+  env: D
+cpu: 16
+memory: 24
+outgoing: {}

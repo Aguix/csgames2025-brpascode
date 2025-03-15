@@ -1,0 +1,11 @@
+---
+ip: 29.140.154.171
+name: CAMTSDBT00651
+tags:
+  app: Mantis BT
+  role: Database
+  country: CA
+  env: T
+cpu: 16
+memory: 56
+outgoing: {}

@@ -1,0 +1,11 @@
+---
+ip: 58.87.90.177
+name: MXKEEDBS00573
+tags:
+  app: Keeper
+  role: Database
+  country: MX
+  env: S
+cpu: 12
+memory: 32
+outgoing: {}

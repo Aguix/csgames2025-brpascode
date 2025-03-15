@@ -1,0 +1,16 @@
+---
+ip: 148.12.70.230
+name: SGMTSBET00653
+tags:
+  app: Mantis BT
+  role: Back End
+  country: SG
+  env: T
+cpu: 12
+memory: 56
+outgoing:
+  '3306':
+  - MXMTSDBD00630
+  - FRMTSFEP00640
+  - MXMTSDBP00641
+  - CAMTSDBT00651

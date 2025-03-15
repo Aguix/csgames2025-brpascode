@@ -1,0 +1,16 @@
+---
+ip: 36.239.175.7
+name: USMTSBET00654
+tags:
+  app: Mantis BT
+  role: Back End
+  country: US
+  env: T
+cpu: 8
+memory: 64
+outgoing:
+  '3306':
+  - MXMTSDBD00630
+  - FRMTSFEP00640
+  - MXMTSDBP00641
+  - CAMTSDBT00651

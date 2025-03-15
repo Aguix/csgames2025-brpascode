@@ -1,0 +1,11 @@
+---
+ip: 67.188.116.104
+name: SGKEEDBP00555
+tags:
+  app: Keeper
+  role: Database
+  country: SG
+  env: P
+cpu: 4
+memory: 56
+outgoing: {}

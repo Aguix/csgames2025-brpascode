@@ -1,0 +1,11 @@
+---
+ip: 28.34.52.71
+name: JPTFMDBD00195
+tags:
+  app: Terraform
+  role: Database
+  country: JP
+  env: D
+cpu: 8
+memory: 32
+outgoing: {}

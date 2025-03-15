@@ -1,0 +1,16 @@
+---
+ip: 6.59.248.113
+name: JPKEEFET00570
+tags:
+  app: Keeper
+  role: Front End
+  country: JP
+  env: T
+cpu: 4
+memory: 64
+outgoing:
+  '443':
+  - SGKEEBED00546
+  - CAKEEBEP00556
+  - JPKEEBET00564
+  - USKEEBET00565

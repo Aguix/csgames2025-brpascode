@@ -1,0 +1,11 @@
+---
+ip: 218.95.113.29
+name: USCFLBET00384
+tags:
+  app: Confluence
+  role: Database
+  country: US
+  env: T
+cpu: 16
+memory: 16
+outgoing: {}

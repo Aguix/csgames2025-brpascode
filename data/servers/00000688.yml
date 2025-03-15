@@ -1,0 +1,18 @@
+---
+ip: 255.134.126.206
+name: JPSFCFEP00431
+tags:
+  app: Saleforce
+  role: Front End
+  country: JP
+  env: P
+cpu: 4
+memory: 8
+outgoing:
+  '443':
+  - JPSFCBED00411
+  - USSFCBED00412
+  - BRSFCBED00413
+  - CAMTSFED00414
+  - JPSFCFED00415
+  - FRSFCBEP00426

@@ -1,0 +1,22 @@
+---
+ip: 98.81.156.160
+name: JPMTSFET00660
+tags:
+  app: Mantis BT
+  role: Front End
+  country: JP
+  env: T
+cpu: 16
+memory: 32
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632
+  - SGMTSBEP00642
+  - FRMTSBEP00643
+  - USMTSBEP00644
+  - MXMTSBET00652
+  - SGMTSBET00653
+  - USMTSBET00654
+  - USMTSBET00655
+  - JPMTSBET00656

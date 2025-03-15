@@ -1,0 +1,13 @@
+---
+ip: 29.39.227.211
+name: SGTFMBED00196
+tags:
+  app: Terraform
+  role: Back End
+  country: SG
+  env: D
+cpu: 16
+memory: 64
+outgoing:
+  '3306':
+  - JPTFMDBD00195

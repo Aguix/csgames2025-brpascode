@@ -1,0 +1,21 @@
+---
+ip: 150.13.17.201
+name: JPJIRBET00338
+tags:
+  app: Jira
+  role: Back End
+  country: JP
+  env: T
+cpu: 8
+memory: 24
+outgoing:
+  '3306':
+  - SGJIRDBD00301
+  - SGJIRLBD00301
+  - USJIRDBD00302
+  - USJIRDBP00317
+  - FRJIRDBP00318
+  - FRJIRDBP00319
+  - USJIRBEP00320
+  - MXJIRDBT00336
+  - CAJIRDBT00336

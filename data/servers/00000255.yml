@@ -1,0 +1,22 @@
+---
+ip: 78.89.189.228
+name: JPADPFET00290
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: JP
+  env: T
+cpu: 16
+memory: 64
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256
+  - JPADPBEP00269
+  - FRADPBEP00270
+  - FRADPBEP00271
+  - CAADPBET00280
+  - USADPBET00281
+  - FRADPBET00282
+  - JPJIRBET00283

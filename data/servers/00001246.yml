@@ -1,0 +1,17 @@
+---
+ip: 172.68.170.222
+name: SGMTSFEP00645
+tags:
+  app: Mantis BT
+  role: Front End
+  country: SG
+  env: P
+cpu: 12
+memory: 48
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632
+  - SGMTSBEP00642
+  - FRMTSBEP00643
+  - USMTSBEP00644

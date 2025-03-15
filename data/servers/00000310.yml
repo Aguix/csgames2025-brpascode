@@ -1,0 +1,21 @@
+---
+ip: 193.23.233.183
+name: JPADPLBD00266
+tags:
+  app: Ad Manager Plus
+  role: Load balancer
+  country: JP
+  env: D
+cpu: 12
+memory: 40
+outgoing:
+  '443':
+  - JPMTSFED00257
+  - BRADPFED00258
+  - BRADPFED00259
+  - USKFXFED00260
+  - JPADPFED00261
+  - BRADPFED00262
+  - BRSFCFED00263
+  - USADPFED00264
+  - CAADPFED00265

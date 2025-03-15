@@ -1,0 +1,18 @@
+---
+ip: 241.91.68.165
+name: USKFXBES00616
+tags:
+  app: Kofax
+  role: Back End
+  country: US
+  env: S
+cpu: 8
+memory: 32
+outgoing:
+  '3306':
+  - SGKFXDBD00585
+  - JPKFXDBP00597
+  - JPKFXDBP00598
+  - MXKFXDBT00605
+  - CAKFXDBS00613
+  - FRKFXDBS00614

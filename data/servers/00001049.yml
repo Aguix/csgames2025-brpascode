@@ -1,0 +1,23 @@
+---
+ip: 167.132.71.255
+name: BRKEEBES00579
+tags:
+  app: Keeper
+  role: Back End
+  country: BR
+  env: S
+cpu: 4
+memory: 40
+outgoing:
+  '3306':
+  - CAJIRDBD00544
+  - JPKEEDBD00545
+  - BRKEEDBP00554
+  - SGKEEDBP00555
+  - BRKEEDBP00556
+  - JPITSDBT00562
+  - MXKEEDBT00562
+  - JPKEEDBT00563
+  - MXKEEDBS00573
+  - CAKEEDBS00574
+  - SGKEEDBS00575

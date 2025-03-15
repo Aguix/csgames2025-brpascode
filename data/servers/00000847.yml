@@ -1,0 +1,28 @@
+---
+ip: 12.205.159.13
+name: USNAGMOP00471
+tags:
+  app: Nagios
+  role: Monitor
+  country: US
+  env: P
+cpu: 8
+memory: 16
+outgoing:
+  '1001':
+  - SGNAGDBD00458
+  - MXNAGDBP00465
+  '1002':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  '1003':
+  - BRADPFED00462
+  - MXNAGFED00463
+  - USNAGFEP00467
+  - FRNAGFEP00468
+  '1004':
+  - MXNAGDBD00463
+  - USNAGLBP00469
+  - USNAGLBP00470

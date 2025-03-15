@@ -1,0 +1,23 @@
+---
+ip: 87.142.201.214
+name: FRCFLMOT00388
+tags:
+  app: Confluence
+  role: Back End
+  country: FR
+  env: T
+cpu: 4
+memory: 48
+outgoing:
+  '3306':
+  - CACFLDBD00358
+  - BRCFLDBD00359
+  - FRKEEDBD00360
+  - JPCFLDBD00361
+  - BRCFLDBP00368
+  - SGCFLDBP00369
+  - JPCFLDBP00370
+  - USCFLBET00382
+  - BRCFLDBT00383
+  - USCFLBET00384
+  - JPCFLDBT00385

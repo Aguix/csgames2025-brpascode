@@ -1,0 +1,11 @@
+---
+ip: 180.17.54.155
+name: SGJIRDBS00351
+tags:
+  app: Jira
+  role: Database
+  country: SG
+  env: S
+cpu: 12
+memory: 56
+outgoing: {}

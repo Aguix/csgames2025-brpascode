@@ -1,0 +1,24 @@
+---
+ip: 143.138.252.158
+name: CAKFXLBT00611
+tags:
+  app: Kofax
+  role: Load balancer
+  country: CA
+  env: T
+cpu: 4
+memory: 48
+outgoing:
+  '443':
+  - SGKFXFED00586
+  - BRKFXFED00587
+  - MXKFXFED00588
+  - SGCFLFED00589
+  - JPKFXFED00590
+  - MXMTSFED00591
+  - BRKFXFED00592
+  - BRKFXFED00592
+  - MXKFXFED00593
+  - SGKFXFEP00601
+  - CAKFXFET00609
+  - MXKFXFET00609

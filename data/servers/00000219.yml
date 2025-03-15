@@ -1,0 +1,11 @@
+---
+ip: 10.159.169.214
+name: FRADPDBD00254
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: FR
+  env: D
+cpu: 8
+memory: 32
+outgoing: {}

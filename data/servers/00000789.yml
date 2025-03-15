@@ -1,0 +1,18 @@
+---
+ip: 88.207.25.52
+name: USNAGBET00476
+tags:
+  app: Nagios
+  role: Back End
+  country: US
+  env: T
+cpu: 16
+memory: 40
+outgoing:
+  '3306':
+  - SGNAGDBD00458
+  - MXNAGDBP00465
+  - BRNAGDBT00472
+  - USNAGDBT00473
+  - USNAGDBT00474
+  - MXJIRDBT00475

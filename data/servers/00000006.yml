@@ -1,0 +1,13 @@
+---
+ip: 90.26.154.194
+name: JPTFMBED00199
+tags:
+  app: Terraform
+  role: Back End
+  country: JP
+  env: D
+cpu: 16
+memory: 64
+outgoing:
+  '3306':
+  - JPTFMDBD00195

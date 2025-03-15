@@ -1,0 +1,22 @@
+---
+ip: 32.163.82.112
+name: JPKFXFES00624
+tags:
+  app: Kofax
+  role: Front End
+  country: JP
+  env: S
+cpu: 8
+memory: 64
+outgoing:
+  '443':
+  - CAKFXBED00585
+  - SGKFXBEP00599
+  - FRKFXBEP00600
+  - JPKFXDBT00606
+  - SGKFXBET00607
+  - CAKFXBET00608
+  - BRKFXBES00615
+  - USKFXBES00616
+  - USKFXBES00617
+  - JPKFXMOS00618

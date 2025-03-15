@@ -1,0 +1,19 @@
+---
+ip: 244.208.64.194
+name: USNAGFES00491
+tags:
+  app: Nagios
+  role: Front End
+  country: US
+  env: S
+cpu: 16
+memory: 24
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461
+  - MXNAGBEP00466
+  - USNAGBET00476
+  - USNAGBES00488
+  - MXNAGBES00489

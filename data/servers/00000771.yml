@@ -1,0 +1,15 @@
+---
+ip: 236.189.239.28
+name: MXNAGFED00463
+tags:
+  app: Nagios
+  role: Front End
+  country: MX
+  env: D
+cpu: 8
+memory: 48
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461

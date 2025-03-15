@@ -1,0 +1,15 @@
+---
+ip: 161.87.59.0
+name: BRSFCFED00263
+tags:
+  app: Ad Manager Plus
+  role: Front End
+  country: BR
+  env: D
+cpu: 4
+memory: 56
+outgoing:
+  '443':
+  - FRADPBED00255
+  - BRADPBED00255
+  - FRADPBED00256

@@ -1,0 +1,13 @@
+---
+ip: 27.74.174.240
+name: USMTSBED00631
+tags:
+  app: Mantis BT
+  role: Back End
+  country: US
+  env: D
+cpu: 16
+memory: 32
+outgoing:
+  '3306':
+  - MXMTSDBD00630

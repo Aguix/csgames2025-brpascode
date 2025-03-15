@@ -1,0 +1,11 @@
+---
+ip: 53.32.154.189
+name: USNAGDBT00474
+tags:
+  app: Nagios
+  role: Database
+  country: US
+  env: T
+cpu: 8
+memory: 56
+outgoing: {}

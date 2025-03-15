@@ -1,0 +1,11 @@
+---
+ip: 113.143.163.90
+name: FRKEEDBD00360
+tags:
+  app: Confluence
+  role: Database
+  country: FR
+  env: D
+cpu: 12
+memory: 24
+outgoing: {}

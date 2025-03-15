@@ -1,0 +1,11 @@
+---
+ip: 89.98.5.146
+name: MXNAGDBP00465
+tags:
+  app: Nagios
+  role: Database
+  country: MX
+  env: P
+cpu: 12
+memory: 32
+outgoing: {}

@@ -1,0 +1,16 @@
+---
+ip: 206.133.215.169
+name: MXMTSBET00652
+tags:
+  app: Mantis BT
+  role: Back End
+  country: MX
+  env: T
+cpu: 12
+memory: 16
+outgoing:
+  '3306':
+  - MXMTSDBD00630
+  - FRMTSFEP00640
+  - MXMTSDBP00641
+  - CAMTSDBT00651

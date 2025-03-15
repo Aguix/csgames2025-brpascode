@@ -1,0 +1,18 @@
+---
+ip: 171.141.182.242
+name: MXITSFET00526
+tags:
+  app: IT Service Management
+  role: Front End
+  country: MX
+  env: T
+cpu: 16
+memory: 40
+outgoing:
+  '443':
+  - FRITSBED00501
+  - JPITSBEP00510
+  - SGITSBEP00511
+  - SGITSBEP00512
+  - CAITSBEP00512
+  - USITSBET00518

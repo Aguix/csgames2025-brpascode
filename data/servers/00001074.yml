@@ -1,0 +1,11 @@
+---
+ip: 99.39.36.154
+name: SGKFXDBD00585
+tags:
+  app: Kofax
+  role: Database
+  country: SG
+  env: D
+cpu: 12
+memory: 56
+outgoing: {}

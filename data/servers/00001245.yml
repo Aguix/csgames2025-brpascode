@@ -1,0 +1,17 @@
+---
+ip: 155.202.134.140
+name: SGMTSFEP00644
+tags:
+  app: Mantis BT
+  role: Front End
+  country: SG
+  env: P
+cpu: 12
+memory: 56
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632
+  - SGMTSBEP00642
+  - FRMTSBEP00643
+  - USMTSBEP00644

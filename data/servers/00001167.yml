@@ -1,0 +1,18 @@
+---
+ip: 163.201.69.201
+name: CAKFXFET00609
+tags:
+  app: Kofax
+  role: Front End
+  country: CA
+  env: T
+cpu: 4
+memory: 40
+outgoing:
+  '443':
+  - CAKFXBED00585
+  - SGKFXBEP00599
+  - FRKFXBEP00600
+  - JPKFXDBT00606
+  - SGKFXBET00607
+  - CAKFXBET00608

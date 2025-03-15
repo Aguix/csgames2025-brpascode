@@ -1,0 +1,16 @@
+---
+ip: 151.129.17.156
+name: JPTFMBEP00211
+tags:
+  app: Terraform
+  role: Back End
+  country: JP
+  env: P
+cpu: 4
+memory: 8
+outgoing:
+  '3306':
+  - JPTFMDBD00195
+  - MXTFMDBP00206
+  - MXSFCDBP00207
+  - JPTFMDBP00208

@@ -1,0 +1,11 @@
+---
+ip: 139.233.239.49
+name: MXADPDBP00269
+tags:
+  app: Ad Manager Plus
+  role: Database
+  country: MX
+  env: P
+cpu: 8
+memory: 40
+outgoing: {}

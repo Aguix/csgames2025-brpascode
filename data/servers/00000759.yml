@@ -1,0 +1,13 @@
+---
+ip: 189.211.183.68
+name: MXNAGBED00461
+tags:
+  app: Nagios
+  role: Back End
+  country: MX
+  env: D
+cpu: 12
+memory: 56
+outgoing:
+  '3306':
+  - SGNAGDBD00458

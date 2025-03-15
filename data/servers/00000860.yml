@@ -1,0 +1,18 @@
+---
+ip: 216.96.64.89
+name: USITSLBD00508
+tags:
+  app: IT Service Management
+  role: Load balancer
+  country: US
+  env: D
+cpu: 12
+memory: 16
+outgoing:
+  '443':
+  - USITSFED00502
+  - SGITSDBD00503
+  - MXITSFED00503
+  - JPITSFED00504
+  - MXITSFED00505
+  - MXITSFED00506

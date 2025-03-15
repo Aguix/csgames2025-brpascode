@@ -1,0 +1,17 @@
+---
+ip: 240.117.115.20
+name: SGTFMDBD00200
+tags:
+  app: Terraform
+  role: Front End
+  country: SG
+  env: D
+cpu: 12
+memory: 24
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199

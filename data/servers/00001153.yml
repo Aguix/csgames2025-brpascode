@@ -1,0 +1,18 @@
+---
+ip: 64.184.39.250
+name: BRKFXBES00615
+tags:
+  app: Kofax
+  role: Back End
+  country: BR
+  env: S
+cpu: 12
+memory: 24
+outgoing:
+  '3306':
+  - SGKFXDBD00585
+  - JPKFXDBP00597
+  - JPKFXDBP00598
+  - MXKFXDBT00605
+  - CAKFXDBS00613
+  - FRKFXDBS00614

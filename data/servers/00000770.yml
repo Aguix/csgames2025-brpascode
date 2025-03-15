@@ -1,0 +1,15 @@
+---
+ip: 192.141.175.224
+name: BRADPFED00462
+tags:
+  app: Nagios
+  role: Front End
+  country: BR
+  env: D
+cpu: 12
+memory: 32
+outgoing:
+  '443':
+  - SGNAGBED00459
+  - FRNAGBED00460
+  - MXNAGBED00461

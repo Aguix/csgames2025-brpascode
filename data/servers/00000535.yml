@@ -1,0 +1,11 @@
+---
+ip: 101.16.191.61
+name: BRCFLDBT00383
+tags:
+  app: Confluence
+  role: Database
+  country: BR
+  env: T
+cpu: 8
+memory: 40
+outgoing: {}

@@ -1,0 +1,11 @@
+---
+ip: 182.67.101.26
+name: JPITSDBT00517
+tags:
+  app: IT Service Management
+  role: Database
+  country: JP
+  env: T
+cpu: 8
+memory: 8
+outgoing: {}

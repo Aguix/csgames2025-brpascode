@@ -1,0 +1,23 @@
+---
+ip: 16.8.209.12
+name: SGKEEBES00577
+tags:
+  app: Keeper
+  role: Back End
+  country: SG
+  env: S
+cpu: 16
+memory: 32
+outgoing:
+  '3306':
+  - CAJIRDBD00544
+  - JPKEEDBD00545
+  - BRKEEDBP00554
+  - SGKEEDBP00555
+  - BRKEEDBP00556
+  - JPITSDBT00562
+  - MXKEEDBT00562
+  - JPKEEDBT00563
+  - MXKEEDBS00573
+  - CAKEEDBS00574
+  - SGKEEDBS00575

@@ -1,0 +1,13 @@
+---
+ip: 155.126.197.61
+name: MXKFXFED00593
+tags:
+  app: Kofax
+  role: Front End
+  country: MX
+  env: D
+cpu: 16
+memory: 64
+outgoing:
+  '443':
+  - CAKFXBED00585

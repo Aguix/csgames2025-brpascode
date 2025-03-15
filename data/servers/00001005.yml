@@ -1,0 +1,11 @@
+---
+ip: 88.35.232.124
+name: JPITSDBT00562
+tags:
+  app: Keeper
+  role: Database
+  country: JP
+  env: T
+cpu: 12
+memory: 32
+outgoing: {}

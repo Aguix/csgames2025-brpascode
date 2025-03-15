@@ -1,0 +1,11 @@
+---
+ip: 168.174.28.2
+name: JPTFMDBS00240
+tags:
+  app: Terraform
+  role: Database
+  country: JP
+  env: S
+cpu: 8
+memory: 48
+outgoing: {}

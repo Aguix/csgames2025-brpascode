@@ -1,0 +1,11 @@
+---
+ip: 72.120.52.118
+name: MXTFMDBP00206
+tags:
+  app: Terraform
+  role: Database
+  country: MX
+  env: P
+cpu: 4
+memory: 16
+outgoing: {}

@@ -1,0 +1,14 @@
+---
+ip: 153.7.245.124
+name: BRSFCBED00413
+tags:
+  app: Saleforce
+  role: Back End
+  country: BR
+  env: D
+cpu: 8
+memory: 24
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410

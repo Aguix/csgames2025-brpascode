@@ -1,0 +1,20 @@
+---
+ip: 69.135.152.88
+name: FRTFMBET00226
+tags:
+  app: Terraform
+  role: Back End
+  country: FR
+  env: T
+cpu: 4
+memory: 64
+outgoing:
+  '3306':
+  - JPTFMDBD00195
+  - MXTFMDBP00206
+  - MXSFCDBP00207
+  - JPTFMDBP00208
+  - FRTFMDBT00222
+  - USTFMDBT00223
+  - SGTFMDBT00224
+  - JPTFMDBT00225

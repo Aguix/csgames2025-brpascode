@@ -1,0 +1,22 @@
+---
+ip: 220.161.119.187
+name: MXMTSFET00662
+tags:
+  app: Mantis BT
+  role: Front End
+  country: MX
+  env: T
+cpu: 4
+memory: 40
+outgoing:
+  '443':
+  - USMTSBED00631
+  - MXMTSBED00632
+  - SGMTSBEP00642
+  - FRMTSBEP00643
+  - USMTSBEP00644
+  - MXMTSBET00652
+  - SGMTSBET00653
+  - USMTSBET00654
+  - USMTSBET00655
+  - JPMTSBET00656

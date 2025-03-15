@@ -1,0 +1,11 @@
+---
+ip: 15.126.156.90
+name: MXMTSDBD00630
+tags:
+  app: Mantis BT
+  role: Database
+  country: MX
+  env: D
+cpu: 16
+memory: 40
+outgoing: {}

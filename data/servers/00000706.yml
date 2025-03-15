@@ -1,0 +1,11 @@
+---
+ip: 188.109.148.113
+name: SGJIRDBP00425
+tags:
+  app: Saleforce
+  role: Database
+  country: SG
+  env: P
+cpu: 4
+memory: 24
+outgoing: {}

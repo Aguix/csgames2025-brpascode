@@ -1,0 +1,14 @@
+---
+ip: 181.76.62.207
+name: USSFCBED00412
+tags:
+  app: Saleforce
+  role: Back End
+  country: US
+  env: D
+cpu: 16
+memory: 64
+outgoing:
+  '3306':
+  - SGSFCBED00409
+  - FRSFCDBD00410

@@ -1,0 +1,11 @@
+---
+ip: 156.193.124.119
+name: JPJIRDBS00349
+tags:
+  app: Jira
+  role: Database
+  country: JP
+  env: S
+cpu: 8
+memory: 24
+outgoing: {}

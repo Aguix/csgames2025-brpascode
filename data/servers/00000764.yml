@@ -1,0 +1,11 @@
+---
+ip: 130.70.143.252
+name: SGNAGDBD00458
+tags:
+  app: Nagios
+  role: Database
+  country: SG
+  env: D
+cpu: 8
+memory: 24
+outgoing: {}

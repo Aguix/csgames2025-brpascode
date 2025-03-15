@@ -1,0 +1,21 @@
+---
+ip: 38.151.21.99
+name: MXTFMFEP00218
+tags:
+  app: Terraform
+  role: Front End
+  country: MX
+  env: P
+cpu: 12
+memory: 32
+outgoing:
+  '443':
+  - SGTFMBED00196
+  - SGTFMBED00197
+  - USTFMBED00198
+  - JPTFMBED00199
+  - JPTFMBED00199
+  - CATFMBEP00208
+  - SGITSBEP00209
+  - JPTFMBEP00210
+  - JPTFMBEP00211

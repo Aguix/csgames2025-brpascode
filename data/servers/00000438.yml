@@ -1,0 +1,11 @@
+---
+ip: 198.97.249.221
+name: MXJIRDBT00336
+tags:
+  app: Jira
+  role: Database
+  country: MX
+  env: T
+cpu: 4
+memory: 32
+outgoing: {}

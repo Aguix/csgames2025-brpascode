@@ -1,0 +1,25 @@
+---
+ip: 92.20.156.240
+name: FRADPLBP00275
+tags:
+  app: Ad Manager Plus
+  role: Load balancer
+  country: FR
+  env: P
+cpu: 12
+memory: 48
+outgoing:
+  '443':
+  - JPMTSFED00257
+  - BRADPFED00258
+  - BRADPFED00259
+  - USKFXFED00260
+  - JPADPFED00261
+  - BRADPFED00262
+  - BRSFCFED00263
+  - USADPFED00264
+  - CAADPFED00265
+  - BRADPFEP00272
+  - JPADPFEP00273
+  - MXADPFEP00273
+  - JPADPFEP00273
